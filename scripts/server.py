@@ -12,7 +12,7 @@ from pathlib import Path
 from urllib.parse import unquote
 
 # Wiki 目录
-WIKI_DIR = Path(__file__).parent.parent / "wiki"
+WIKI_DIR = Path(__file__).parent.parent
 
 class WikiHandler(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
