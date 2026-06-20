@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "vinta/awesome-python",
+    "owner": "vinta",
+    "name": "awesome-python",
+    "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+    "stars": 302968,
+    "language": "Python",
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "jobbole/awesome-python-cn",
+    "owner": "jobbole",
+    "name": "awesome-python-cn",
+    "description": "Python\u8d44\u6e90\u5927\u5168\u4e2d\u6587\u7248\uff0c\u5305\u62ec\uff1aWeb\u6846\u67b6\u3001\u7f51\u7edc\u722c\u866b\u3001\u6a21\u677f\u5f15\u64ce\u3001\u6570\u636e\u5e93\u3001\u6570\u636e\u53ef\u89c6\u5316\u3001\u56fe\u7247\u5904\u7406\u7b49\uff0c\u7531\u300c\u5f00\u6e90\u524d\u54e8\u300d\u548c\u300cPython\u5f00\u53d1\u8005\u300d\u5fae\u4fe1\u516c\u53f7\u56e2\u961f\u7ef4\u62a4\u66f4\u65b0\u3002",
+    "stars": 30431,
+    "language": "Makefile",
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "mahmoud/awesome-python-applications",
+    "owner": "mahmoud",
+    "name": "awesome-python-applications",
+    "description": "\ud83d\udcbf Free software that works great, and also happens to be open-source Python. ",
+    "stars": 17892,
+    "language": "Jupyter Notebook",
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "Kr1s77/awesome-python-login-model",
+    "owner": "Kr1s77",
+    "name": "awesome-python-login-model",
+    "description": "\ud83d\ude2epython\u6a21\u62df\u767b\u9646\u4e00\u4e9b\u5927\u578b\u7f51\u7ad9\uff0c\u8fd8\u6709\u4e00\u4e9b\u7b80\u5355\u7684\u722c\u866b\uff0c\u5e0c\u671b\u5bf9\u4f60\u4eec\u6709\u6240\u5e2e\u52a9\u2764\ufe0f\uff0c\u5982\u679c\u559c\u6b22\u8bb0\u5f97\u7ed9\u4e2astar\u54e6\ud83c\udf1f",
+    "stars": 16225,
+    "language": "Python",
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "junnplus/awesome-python-books",
+    "owner": "junnplus",
+    "name": "awesome-python-books",
+    "description": ":books: Directory of Python books",
+    "stars": 4267,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "krzjoa/awesome-python-data-science",
+    "owner": "krzjoa",
+    "name": "awesome-python-data-science",
+    "description": "Probably the best curated list of data science software in Python.",
+    "stars": 3465,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "michaelliao/awesome-python3-webapp",
+    "owner": "michaelliao",
+    "name": "awesome-python3-webapp",
+    "description": "\u5c0f\u767d\u7684Python\u5165\u95e8\u6559\u7a0b\u5b9e\u6218\u7bc7",
+    "stars": 2817,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "sfermigier/awesome-functional-python",
+    "owner": "sfermigier",
+    "name": "awesome-functional-python",
+    "description": "A curated list of awesome things related to functional programming in Python.",
+    "stars": 2535,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "hastagAB/Awesome-Python-Scripts",
+    "owner": "hastagAB",
+    "name": "Awesome-Python-Scripts",
+    "description": "A Curated list of Awesome Python Scripts that Automate Stuffs. ",
+    "stars": 2405,
+    "language": "Python",
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "MaxBenChrist/awesome_time_series_in_python",
+    "owner": "MaxBenChrist",
+    "name": "awesome_time_series_in_python",
+    "description": "This curated list contains  python packages for time series analysis",
+    "stars": 2250,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "michaelliao/awesome-python-webapp",
+    "owner": "michaelliao",
+    "name": "awesome-python-webapp",
+    "description": "\u5c0f\u767d\u7684Python\u5165\u95e8\u6559\u7a0b\u5b9e\u6218\u7bc7\uff1a\u7f51\u7ad9+iOS App\u6e90\u7801",
+    "stars": 2247,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "trananhkma/fucking-awesome-python",
+    "owner": "trananhkma",
+    "name": "fucking-awesome-python",
+    "description": "awesome-python with :octocat: :star: and :fork_and_knife:",
+    "stars": 2066,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "typeddjango/awesome-python-typing",
+    "owner": "typeddjango",
+    "name": "awesome-python-typing",
+    "description": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
+    "stars": 1964,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "faroit/awesome-python-scientific-audio",
+    "owner": "faroit",
+    "name": "awesome-python-scientific-audio",
+    "description": " Curated list of python software and packages related to scientific research in audio",
+    "stars": 1695,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "garimasingh128/awesome-python-projects",
+    "owner": "garimasingh128",
+    "name": "awesome-python-projects",
+    "description": "\ud83d\udcf1 \u2705 Some awesome projects in python! \ud83d\udcf1 \u2705",
+    "stars": 1483,
+    "language": "Jupyter Notebook",
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "DjangoEx/awesome-python-resources",
+    "owner": "DjangoEx",
+    "name": "awesome-python-resources",
+    "description": "Awesome Python Resources",
+    "stars": 1449,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "lmmentel/awesome-python-chemistry",
+    "owner": "lmmentel",
+    "name": "awesome-python-chemistry",
+    "description": "A curated list of Python packages related to chemistry ",
+    "stars": 1404,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "jobbole/awesome-python-books",
+    "owner": "jobbole",
+    "name": "awesome-python-books",
+    "description": "\u5982\u679c\u6709\u4eba\u8ba9\u4f60\u63a8\u8350 Python \u6280\u672f\u4e66\uff0c\u8bf7\u8ba9\u4ed6\u770b\u8fd9\u4e2a\u5217\u8868",
+    "stars": 1341,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "PyHAT-stack/awesome-python-htmx",
+    "owner": "PyHAT-stack",
+    "name": "awesome-python-htmx",
+    "description": "A curated list of things related to python-based web development using htmx",
+    "stars": 1327,
+    "language": null,
+    "source": "awesome-search"
+  },
+  {
+    "full_name": "uhub/awesome-python",
+    "owner": "uhub",
+    "name": "awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries and software.",
+    "stars": 1187,
+    "language": null,
+    "source": "awesome-search"
+  }
+]

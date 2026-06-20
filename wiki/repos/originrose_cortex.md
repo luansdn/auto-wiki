@@ -1,0 +1,30 @@
+# originrose/cortex
+
+> Machine learning in Clojure
+
+---
+
+## 基本信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 1,269 |
+| 🍴 Forks | 109 |
+| 🌐 Language | Clojure |
+| 📜 License | EPL-1.0 |
+| 📅 Updated | 2026-04-15 |
+| 📅 最近推送 | 2018-09-10 |
+
+## 项目介绍
+
+Machine learning in Clojure
+
+
+## 相关链接
+
+- 🔗 GitHub: https://github.com/originrose/cortex
+
+
+---
+
+*数据收集时间: 2026-06-20 12:36*

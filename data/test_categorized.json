@@ -1,0 +1,35 @@
+[
+  {
+    "full_name": "vinta/awesome-python",
+    "owner": "vinta",
+    "name": "awesome-python",
+    "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+    "stars": 302968,
+    "language": "Python",
+    "source": "awesome-search",
+    "category": "1.  **Analyze User Input:**",
+    "summary": "4"
+  },
+  {
+    "full_name": "jobbole/awesome-python-cn",
+    "owner": "jobbole",
+    "name": "awesome-python-cn",
+    "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
+    "stars": 30431,
+    "language": "Makefile",
+    "source": "awesome-search",
+    "category": "1.  **Analyze User Input:**",
+    "summary": "1.  **Analyze User Input:**"
+  },
+  {
+    "full_name": "mahmoud/awesome-python-applications",
+    "owner": "mahmoud",
+    "name": "awesome-python-applications",
+    "description": "💿 Free software that works great, and also happens to be open-source Python. ",
+    "stars": 17892,
+    "language": "Jupyter Notebook",
+    "source": "awesome-search",
+    "category": "1.  **Analyze User Input:**",
+    "summary": "3. Explain"
+  }
+]
