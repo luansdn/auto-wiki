@@ -25,4 +25,4 @@ My old book about programming for Symbian 9.x based smartphones in russian
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

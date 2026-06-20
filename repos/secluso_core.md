@@ -28,4 +28,4 @@ A privacy-preserving Raspberry Pi home security camera that uses advanced end-to
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

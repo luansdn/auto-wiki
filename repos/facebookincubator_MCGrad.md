@@ -28,4 +28,4 @@ MCGrad is a scalable and easy-to-use tool for multicalibration. It ensures your 
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

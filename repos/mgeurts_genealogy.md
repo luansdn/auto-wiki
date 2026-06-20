@@ -28,4 +28,4 @@ Genealogy is a free and open-source family tree PHP application to record family
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

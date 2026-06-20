@@ -28,4 +28,4 @@ LibreBooking is an open-source resource scheduling solution. It provides a flexi
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

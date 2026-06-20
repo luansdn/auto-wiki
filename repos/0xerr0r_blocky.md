@@ -28,4 +28,4 @@ Fast and lightweight DNS proxy as ad-blocker for local network with many feature
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

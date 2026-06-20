@@ -28,4 +28,4 @@ Koillection is a self-hosted service allowing users to manage any kind of collec
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

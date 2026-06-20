@@ -27,4 +27,4 @@ A modern, lightning-fast file sharing platform built for self-hosting. Created w
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

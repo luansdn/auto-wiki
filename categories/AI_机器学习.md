@@ -2,7 +2,7 @@
 
 > 人工智能、机器学习、深度学习、LLM 相关项目
 > 
-> 项目数量: 501
+> 项目数量: 513
 
 ---
 
@@ -11,6 +11,14 @@
 ⭐ 390,527 🌐 Python
 
 :books: Freely available programming books
+
+---
+
+## [obra/superpowers](https://github.com/obra/superpowers) [详细](../repos/obra_superpowers.md)
+
+⭐ 233,592 🌐 Shell
+
+An agentic skills framework & software development methodology that works.
 
 ---
 
@@ -35,6 +43,14 @@ Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Ge
 ⭐ 161,731 🌐 Python
 
 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,
+
+---
+
+## [microsoft/markitdown](https://github.com/microsoft/markitdown) [详细](../repos/microsoft_markitdown.md)
+
+⭐ 156,198 🌐 Python
+
+Python tool for converting files and office documents to Markdown.
 
 ---
 
@@ -262,6 +278,22 @@ Visualizer for neural network, deep learning and machine learning models
 
 ---
 
+## [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) [详细](../repos/Imbad0202_academic-research-skills.md)
+
+⭐ 32,965 🌐 Python
+
+Academic Research Skills for Claude Code: research → write → review → revise → finalize
+
+---
+
+## [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) [详细](../repos/tinyhumansai_openhuman.md)
+
+⭐ 32,686 🌐 Rust
+
+Your Personal AI super intelligence. Private, Simple and extremely powerful.
+
+---
+
 ## [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) [详细](../repos/eriklindernoren_ML-From-Scratch.md)
 
 ⭐ 31,937 🌐 Python
@@ -371,6 +403,14 @@ The fastai book, published as Jupyter Notebooks
 ⭐ 24,601 🌐 Jupyter Notebook
 
 该项目是一个基于Python的机器学习算法教学库，通过交互式Jupyter Notebook演示与详细的数学推导，帮助读者从零实现主流机器学习模型。 项目涵盖线性回归、逻辑回归、决策树、神经网络等经典
+
+---
+
+## [google-research/timesfm](https://github.com/google-research/timesfm) [详细](../repos/google-research_timesfm.md)
+
+⭐ 24,172 🌐 Python
+
+TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo
 
 ---
 
@@ -654,6 +694,14 @@ An API standard for single-agent reinforcement learning environments, with popul
 
 ---
 
+## [alibaba/zvec](https://github.com/alibaba/zvec) [详细](../repos/alibaba_zvec.md)
+
+⭐ 11,669 🌐 C++
+
+A lightweight, lightning-fast, in-process vector database
+
+---
+
 ## [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) [详细](../repos/hmemcpy_milewski-ctfp-pdf.md)
 
 ⭐ 11,637 🌐 TeX
@@ -862,6 +910,14 @@ The easiest way to serve AI apps and models - Build Model Inference APIs, Job qu
 
 ---
 
+## [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) [详细](../repos/DeusData_codebase-memory-mcp.md)
+
+⭐ 8,541 🌐 C
+
+High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —
+
+---
+
 ## [learningcircuit/local-deep-research](https://github.com/learningcircuit/local-deep-research) [详细](../repos/learningcircuit_local-deep-research.md)
 
 ⭐ 8,536 🌐 Python
@@ -907,6 +963,14 @@ Simple feed-forward neural network in JavaScript
 ⭐ 7,738 🌐 JavaScript
 
 Collaborative office suite, end-to-end encrypted and open-source.
+
+---
+
+## [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) [详细](../repos/Lightricks_LTX-2.md)
+
+⭐ 7,712 🌐 Python
+
+Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 
 ---
 
@@ -1051,6 +1115,14 @@ An NLP library for building bots, with entity extraction, sentiment analysis, au
 ⭐ 6,532 🌐 Python
 
 Image processing in Python
+
+---
+
+## [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) [详细](../repos/calesthio_OpenMontage.md)
+
+⭐ 6,449 🌐 Python
+
+World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skill
 
 ---
 
@@ -1211,6 +1283,14 @@ An Engine-Agnostic Deep Learning Framework in Java
 ⭐ 4,696 🌐 PHP
 
 Anonymous email forwarding
+
+---
+
+## [zai-org/GLM-5](https://github.com/zai-org/GLM-5) [详细](../repos/zai-org_GLM-5.md)
+
+⭐ 4,660 
+
+GLM-5: From Vibe Coding to Agentic Engineering
 
 ---
 
@@ -1678,6 +1758,14 @@ An open-source platform for legally compliant email archiving.
 
 ---
 
+## [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) [详细](../repos/palmier-io_palmier-pro.md)
+
+⭐ 2,102 🌐 Swift
+
+macOS video editor built for AI
+
+---
+
 ## [zone-eu/wildduck](https://github.com/zone-eu/wildduck) [详细](../repos/zone-eu_wildduck.md)
 
 ⭐ 2,099 🌐 JavaScript
@@ -1723,6 +1811,14 @@ A comprehensive mapping database of English to Chinese technical vocabulary in t
 ⭐ 2,002 🌐 Ruby
 
 A self-hosted digital asset manager for 3d print files.
+
+---
+
+## [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) [详细](../repos/yifanfeng97_Hyper-Extract.md)
+
+⭐ 2,001 🌐 Python
+
+Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs
 
 ---
 

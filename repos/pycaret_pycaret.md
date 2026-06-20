@@ -28,4 +28,4 @@ Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native en
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

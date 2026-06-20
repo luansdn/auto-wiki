@@ -28,4 +28,4 @@ A Spark UI and Spark History Server alternative with CPU and Memory metrics! Del
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

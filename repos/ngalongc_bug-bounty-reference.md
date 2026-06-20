@@ -27,4 +27,4 @@ Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty 
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

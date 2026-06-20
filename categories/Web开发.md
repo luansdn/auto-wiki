@@ -2,7 +2,7 @@
 
 > 前端、后端、框架、全栈 Web 开发
 > 
-> 项目数量: 535
+> 项目数量: 545
 
 ---
 
@@ -94,6 +94,14 @@ The HTML Presentation Framework
 
 ---
 
+## [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) [详细](../repos/Egonex-AI_Understand-Anything.md)
+
+⭐ 64,185 🌐 TypeScript
+
+Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e
+
+---
+
 ## [adam-p/markdown-here](https://github.com/adam-p/markdown-here) [详细](../repos/adam-p_markdown-here.md)
 
 ⭐ 60,221 🌐 JavaScript
@@ -118,11 +126,27 @@ Open Source realtime backend in 1 file
 
 ---
 
+## [koala73/worldmonitor](https://github.com/koala73/worldmonitor) [详细](../repos/koala73_worldmonitor.md)
+
+⭐ 57,432 🌐 TypeScript
+
+Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i
+
+---
+
 ## [tryghost/ghost](https://github.com/tryghost/ghost) [详细](../repos/tryghost_ghost.md)
 
 ⭐ 54,039 🌐 JavaScript
 
 Independent technology for modern publishing, memberships, subscriptions and newsletters.
+
+---
+
+## [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) [详细](../repos/colbymchenry_codegraph.md)
+
+⭐ 52,107 🌐 TypeScript
+
+Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor
 
 ---
 
@@ -214,6 +238,14 @@ A community-supported supercharged document management system: scan, index and a
 
 ---
 
+## [chopratejas/headroom](https://github.com/chopratejas/headroom) [详细](../repos/chopratejas_headroom.md)
+
+⭐ 39,512 🌐 Python
+
+Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s
+
+---
+
 ## [corentinth/it-tools](https://github.com/corentinth/it-tools) [详细](../repos/corentinth_it-tools.md)
 
 ⭐ 39,427 🌐 Vue
@@ -227,6 +259,14 @@ Collection of handy online tools for developers, with great UX.
 ⭐ 39,385 🌐 HTML
 
 Style guides for Google-originated open-source projects
+
+---
+
+## [Kong/insomnia](https://github.com/Kong/insomnia) [详细](../repos/Kong_insomnia.md)
+
+⭐ 39,051 🌐 TypeScript
+
+The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, 
 
 ---
 
@@ -286,6 +326,14 @@ The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and
 
 ---
 
+## [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) [详细](../repos/rohitg00_ai-engineering-from-scratch.md)
+
+⭐ 34,839 🌐 Python
+
+Learn it. Build it. Ship it for others.
+
+---
+
 ## [medusajs/medusa](https://github.com/medusajs/medusa) [详细](../repos/medusajs_medusa.md)
 
 ⭐ 34,478 🌐 TypeScript
@@ -339,6 +387,14 @@ Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a sta
 ⭐ 28,467 🌐 Vue
 
 Wiki.js | A modern and powerful wiki app built on Node.js
+
+---
+
+## [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) [详细](../repos/aishwaryanr_awesome-generative-ai-guide.md)
+
+⭐ 27,713 🌐 HTML
+
+A one stop repository for generative AI research updates, interview resources, notebooks and much mo
 
 ---
 
@@ -419,6 +475,14 @@ Angular Style Guide: A starting point for Angular development teams to provide c
 ⭐ 23,324 🌐 JavaScript
 
 Low-code programming for event-driven applications
+
+---
+
+## [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) [详细](../repos/Kilo-Org_kilocode.md)
+
+⭐ 22,995 🌐 TypeScript
+
+Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most p
 
 ---
 
@@ -1099,6 +1163,14 @@ Web based localization tool with tight version control integration.
 ⭐ 5,919 
 
 AngularJS styleguide for teams
+
+---
+
+## [withastro/flue](https://github.com/withastro/flue) [详细](../repos/withastro_flue.md)
+
+⭐ 5,903 🌐 TypeScript
+
+The sandbox agent framework.
 
 ---
 
@@ -2267,6 +2339,14 @@ Self-hosted Music Server. Focused on metadata integration & UI
 ⭐ 1,138 🌐 Python
 
 Self-hosted outdoor activity tracker :bicyclist: [mirror of codeberg repository: https://codeberg.or
+
+---
+
+## [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) [详细](../repos/BuilderIO_agent-native.md)
+
+⭐ 1,127 🌐 TypeScript
+
+A framework for building agent-native applications.
 
 ---
 

@@ -28,4 +28,4 @@ Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

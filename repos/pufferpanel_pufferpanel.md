@@ -28,4 +28,4 @@ PufferPanel is an open source game server management panel, designed for both sm
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

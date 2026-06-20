@@ -28,4 +28,4 @@ Motions, resolutions and amendments for NGOs and political conventions
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

@@ -28,4 +28,4 @@ Reinforcement Learning environments based on the 1993 game Doom :godmode:
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

@@ -28,4 +28,4 @@ Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

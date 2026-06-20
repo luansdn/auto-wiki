@@ -28,4 +28,4 @@ Indico - A feature-rich event management system, made @ CERN, the place where th
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

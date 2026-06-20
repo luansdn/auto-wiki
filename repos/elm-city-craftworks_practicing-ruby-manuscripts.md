@@ -25,4 +25,4 @@ Collection of source manuscripts for publicly released Practicing Ruby articles
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

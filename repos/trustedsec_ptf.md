@@ -27,4 +27,4 @@ The Penetration Testers Framework (PTF) is a way for modular support for up-to-d
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

@@ -28,4 +28,4 @@ Colibri core is an NLP tool as well as a C++ and Python library for working with
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

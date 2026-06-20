@@ -28,4 +28,4 @@ Passbolt Community Edition (CE) API. The JSON API for the open source password m
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

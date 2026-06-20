@@ -28,4 +28,4 @@ Shopware 6 is an open commerce platform based on Symfony Framework and Vue and s
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*

@@ -28,4 +28,4 @@ Self-hosted bookmark manager that is designed be to be minimal, fast, and easy t
 
 ---
 
-*数据收集时间: 2026-06-20 13:23*
+*数据收集时间: 2026-06-20 15:00*
