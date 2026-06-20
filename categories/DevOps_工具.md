@@ -2,7 +2,7 @@
 
 > 运维工具、CI/CD、命令行工具、效率工具
 > 
-> 项目数量: 111
+> 项目数量: 116
 
 ---
 
@@ -398,6 +398,14 @@ Android SQLite API based on SQLCipher
 
 ---
 
+## [widuu/chinese_docker](https://github.com/widuu/chinese_docker) [详细](../repos/widuu_chinese_docker.md)
+
+⭐ 2,706 
+
+docker中文文档，docker Chinese Documation
+
+---
+
 ## [CamDavidsonPilon/lifelines](https://github.com/CamDavidsonPilon/lifelines) [详细](../repos/CamDavidsonPilon_lifelines.md)
 
 ⭐ 2,583 🌐 Python
@@ -582,6 +590,14 @@ ADAM is a genomics analysis platform with specialized file formats built using A
 
 ---
 
+## [tobegit3hub/understand_linux_process](https://github.com/tobegit3hub/understand_linux_process) [详细](../repos/tobegit3hub_understand_linux_process.md)
+
+⭐ 1,025 🌐 Dockerfile
+
+The open-source ebook of Understand Linux Process
+
+---
+
 ## [brufdev/many-notes](https://github.com/brufdev/many-notes) [详细](../repos/brufdev_many-notes.md)
 
 ⭐ 1,009 🌐 PHP
@@ -742,11 +758,27 @@ Maze Applied Reinforcement Learning Framework
 
 ---
 
+## [brunocascio/docker-espanol](https://github.com/brunocascio/docker-espanol) [详细](../repos/brunocascio_docker-espanol.md)
+
+⭐ 259 🌐 Ruby
+
+Un tutorial Docker en español. Basado en el libro Docker Cookbook de O'reilly
+
+---
+
 ## [AirSage/Petrel](https://github.com/AirSage/Petrel) [详细](../repos/AirSage_Petrel.md)
 
 ⭐ 247 🌐 Python
 
 Tools for writing, submitting, debugging, and monitoring Storm topologies in pure Python
+
+---
+
+## [freetonik/ansible-tuto-rus](https://github.com/freetonik/ansible-tuto-rus) [详细](../repos/freetonik_ansible-tuto-rus.md)
+
+⭐ 177 🌐 Shell
+
+Ansible tutorial (Russian)
 
 ---
 
@@ -811,6 +843,14 @@ Functions and data dependencies for loading various word embeddings (Word2Vec, F
 ⭐ 81 🌐 Go
 
 Highly customizable SSH server with several ways to authorize a user and options where and how to ex
+
+---
+
+## [jeffotoni/goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops) [详细](../repos/jeffotoni_goworkshopdevops.md)
+
+⭐ 74 
+
+Workshop material for 8 hours using golang
 
 ---
 

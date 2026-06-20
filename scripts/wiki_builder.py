@@ -9,8 +9,8 @@ import os
 from datetime import datetime
 from pathlib import Path
 
-# Wiki 输出目录
-WIKI_DIR = Path(__file__).parent.parent / "wiki"
+# Wiki 输出目录 (项目根目录)
+WIKI_DIR = Path(__file__).parent.parent
 WIKI_DIR.mkdir(exist_ok=True)
 
 # 分类描述

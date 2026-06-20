@@ -27,4 +27,4 @@ GeneWeb is a free (as in free speech) genealogy software with a web interface cr
 
 ---
 
-*数据收集时间: 2026-06-20 12:36*
+*数据收集时间: 2026-06-20 13:23*

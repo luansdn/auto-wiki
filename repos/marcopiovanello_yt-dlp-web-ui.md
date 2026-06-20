@@ -27,4 +27,4 @@ A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 
 ---
 
-*数据收集时间: 2026-06-20 12:36*
+*数据收集时间: 2026-06-20 13:23*

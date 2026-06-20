@@ -2,7 +2,7 @@
 
 > 人工智能、机器学习、深度学习、LLM 相关项目
 > 
-> 项目数量: 456
+> 项目数量: 501
 
 ---
 
@@ -75,6 +75,14 @@ Open Source Computer Vision Library
 ⭐ 89,163 
 
 3. **Refine & Verify:** Let's combine and check the exact wording to ensure it flows well and strict
+
+---
+
+## [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) [详细](../repos/microsoft_ML-For-Beginners.md)
+
+⭐ 87,049 🌐 Jupyter Notebook
+
+12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ---
 
@@ -326,6 +334,14 @@ FAIR's research platform for object detection research, implementing popular alg
 
 ---
 
+## [yeasy/docker_practice](https://github.com/yeasy/docker_practice) [详细](../repos/yeasy_docker_practice.md)
+
+⭐ 26,107 🌐 Go
+
+最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps pra
+
+---
+
 ## [deepset-ai/haystack](https://github.com/deepset-ai/haystack) [详细](../repos/deepset-ai_haystack.md)
 
 ⭐ 25,614 🌐 MDX
@@ -339,6 +355,14 @@ Open-source AI orchestration framework for building context-engineered, producti
 ⭐ 25,609 🌐 Jupyter Notebook
 
 ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.
+
+---
+
+## [fastai/fastbook](https://github.com/fastai/fastbook) [详细](../repos/fastai_fastbook.md)
+
+⭐ 25,040 🌐 Jupyter Notebook
+
+The fastai book, published as Jupyter Notebooks
 
 ---
 
@@ -438,6 +462,14 @@ Etherpad: A modern really-real-time collaborative document editor.
 
 ---
 
+## [mhinz/vim-galore](https://github.com/mhinz/vim-galore) [详细](../repos/mhinz_vim-galore.md)
+
+⭐ 17,889 🌐 Vim script
+
+:mortar_board: All things Vim!
+
+---
+
 ## [Microsoft/CNTK](https://github.com/Microsoft/CNTK) [详细](../repos/Microsoft_CNTK.md)
 
 ⭐ 17,599 🌐 C++
@@ -507,6 +539,14 @@ Fast and flexible image augmentation library. Paper about the library: https://w
 ⭐ 15,292 🌐 Python
 
 music library manager and MusicBrainz tagger
+
+---
+
+## [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) [详细](../repos/iggredible_Learn-Vim.md)
+
+⭐ 15,124 🌐 Dockerfile
+
+Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 
 ---
 
@@ -611,6 +651,14 @@ modest natural-language processing
 ⭐ 12,065 🌐 Python
 
 An API standard for single-agent reinforcement learning environments, with popular reference environ
+
+---
+
+## [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) [详细](../repos/hmemcpy_milewski-ctfp-pdf.md)
+
+⭐ 11,637 🌐 TeX
+
+Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 
 ---
 
@@ -782,6 +830,14 @@ Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a m
 
 ---
 
+## [yangyangwithgnu/use_vim_as_ide](https://github.com/yangyangwithgnu/use_vim_as_ide) [详细](../repos/yangyangwithgnu_use_vim_as_ide.md)
+
+⭐ 9,169 🌐 VimL
+
+use vim as IDE
+
+---
+
 ## [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) [详细](../repos/RedditSota_state-of-the-art-result-for-machine-learning-problems.md)
 
 ⭐ 8,902 
@@ -867,6 +923,14 @@ Evidently is ​​an open-source ML and LLM observability framework. Evaluate, 
 ⭐ 7,467 🌐 Go
 
 Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Con
+
+---
+
+## [norvig/paip-lisp](https://github.com/norvig/paip-lisp) [详细](../repos/norvig_paip-lisp.md)
+
+⭐ 7,466 🌐 Common Lisp
+
+Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 
 ---
 
@@ -1062,11 +1126,35 @@ Open Source Intelligence gathering tool aimed at reducing the time spent harvest
 
 ---
 
+## [probml/pml-book](https://github.com/probml/pml-book) [详细](../repos/probml_pml-book.md)
+
+⭐ 5,595 🌐 Jupyter Notebook
+
+"Probabilistic Machine Learning" - a book series by Kevin Murphy
+
+---
+
 ## [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) [详细](../repos/Michael-A-Kuykendall_shimmy.md)
 
 ⭐ 5,511 🌐 Rust
 
 ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python
+
+---
+
+## [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) [详细](../repos/chai2010_go-ast-book.md)
+
+⭐ 5,509 🌐 Go
+
+:books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
+
+---
+
+## [forhappy/Cplusplus-Concurrency-In-Practice](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice) [详细](../repos/forhappy_Cplusplus-Concurrency-In-Practice.md)
+
+⭐ 5,486 🌐 C++
+
+A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》
 
 ---
 
@@ -1123,6 +1211,14 @@ An Engine-Agnostic Deep Learning Framework in Java
 ⭐ 4,696 🌐 PHP
 
 Anonymous email forwarding
+
+---
+
+## [ecomfe/spec](https://github.com/ecomfe/spec) [详细](../repos/ecomfe_spec.md)
+
+⭐ 4,605 
+
+This repository contains the specifications.
 
 ---
 
@@ -1214,6 +1310,14 @@ Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a
 
 ---
 
+## [airbnb/ruby](https://github.com/airbnb/ruby) [详细](../repos/airbnb_ruby.md)
+
+⭐ 3,889 🌐 Ruby
+
+Ruby Style Guide
+
+---
+
 ## [NervanaSystems/neon](https://github.com/NervanaSystems/neon) [详细](../repos/NervanaSystems_neon.md)
 
 ⭐ 3,866 🌐 Python
@@ -1283,6 +1387,14 @@ Fast, flexible and easy to use probabilistic modelling in Python.
 ⭐ 3,503 🌐 Go
 
 Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format.
+
+---
+
+## [BlockchainCommons/Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) [详细](../repos/BlockchainCommons_Learning-Bitcoin-from-the-Command-Line.md)
+
+⭐ 3,429 🌐 Jupyter Notebook
+
+A complete course for learning Bitcoin programming and usage from the command
 
 ---
 
@@ -1403,6 +1515,14 @@ Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual 
 ⭐ 2,950 🌐 TypeScript
 
 In-browser Postgres sandbox with AI assistance (formerly postgres.new)
+
+---
+
+## [lnbook/lnbook](https://github.com/lnbook/lnbook) [详细](../repos/lnbook_lnbook.md)
+
+⭐ 2,948 🌐 AsciiDoc
+
+Mastering the Lightning Network (LN)
 
 ---
 
@@ -1670,6 +1790,14 @@ Microsoft BotFramework WebChat 是一款专为 Azure Bot Services 打造的高�
 
 ---
 
+## [KaiserY/rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) [详细](../repos/KaiserY_rust-book-chinese.md)
+
+⭐ 1,759 🌐 Markdown
+
+rust 程序设计语言 中文版
+
+---
+
 ## [PyTorchLightning/pytorch-lightning-bolts](https://github.com/PyTorchLightning/pytorch-lightning-bolts) [详细](../repos/PyTorchLightning_pytorch-lightning-bolts.md)
 
 ⭐ 1,752 🌐 Python
@@ -1798,6 +1926,14 @@ Modular Deep Reinforcement Learning framework in PyTorch. Companion library of t
 
 ---
 
+## [mattharrison/Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) [详细](../repos/mattharrison_Tiny-Python-3.6-Notebook.md)
+
+⭐ 1,338 
+
+This repository contains the text for the Tiny Python 3.6 Notebook.
+
+---
+
 ## [LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) [详细](../repos/LiYangHart_Hyperparameter-Optimization-of-Machine-Learning-Algorithms.md)
 
 ⭐ 1,334 🌐 Jupyter Notebook
@@ -1867,6 +2003,14 @@ Dovecot mail server
 ⭐ 1,215 🌐 TypeScript
 
 Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
+
+---
+
+## [crgimenes/grupo-estudos-golang](https://github.com/crgimenes/grupo-estudos-golang) [详细](../repos/crgimenes_grupo-estudos-golang.md)
+
+⭐ 1,141 🌐 Go
+
+Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go
 
 ---
 
@@ -2262,6 +2406,22 @@ Collection of models for Core ML
 
 ---
 
+## [thewhitetulip/build-app-with-python-antitextbook](https://github.com/thewhitetulip/build-app-with-python-antitextbook) [详细](../repos/thewhitetulip_build-app-with-python-antitextbook.md)
+
+⭐ 579 🌐 Python
+
+Aims to teach Python3 by example
+
+---
+
+## [liwei-lai/the-little-redis-book](https://github.com/liwei-lai/the-little-redis-book) [详细](../repos/liwei-lai_the-little-redis-book.md)
+
+⭐ 578 
+
+
+
+---
+
 ## [goml/gobrain](https://github.com/goml/gobrain) [详细](../repos/goml_gobrain.md)
 
 ⭐ 566 🌐 Go
@@ -2291,6 +2451,38 @@ FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a so
 ⭐ 547 🌐 Python
 
 Automatically Build Multiple ML Models with a Single Line of Code. Created by Ram Seshadri. Collabor
+
+---
+
+## [alexeygrigorev/mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) [详细](../repos/alexeygrigorev_mlbookcamp-code.md)
+
+⭐ 546 🌐 Jupyter Notebook
+
+The code from the Machine Learning Bookcamp book
+
+---
+
+## [volodymyrprokopyuk/go-blockchain](https://github.com/volodymyrprokopyuk/go-blockchain) [详细](../repos/volodymyrprokopyuk_go-blockchain.md)
+
+⭐ 543 🌐 Go
+
+A foundational and practical guide for effectively learning and progressively building a blockchain 
+
+---
+
+## [mairin/selinux-coloring-book](https://github.com/mairin/selinux-coloring-book) [详细](../repos/mairin_selinux-coloring-book.md)
+
+⭐ 536 
+
+A coloring book to help folks understand how SELinux works.
+
+---
+
+## [edsomjr/TEP](https://github.com/edsomjr/TEP) [详细](../repos/edsomjr_TEP.md)
+
+⭐ 535 🌐 TeX
+
+Material da disciplina Tópicos Especiais em Programação
 
 ---
 
@@ -2435,6 +2627,14 @@ An open-source read-along document reader server with high-quality TTS options, 
 ⭐ 436 🌐 Ruby
 
 Q&A-based community knowledge-sharing software
+
+---
+
+## [microsoft/Generative-AI-for-beginners-java](https://github.com/microsoft/Generative-AI-for-beginners-java) [详细](../repos/microsoft_Generative-AI-for-beginners-java.md)
+
+⭐ 431 🌐 Java
+
+Learn Generative AI fundamentals through Java programming.
 
 ---
 
@@ -2622,6 +2822,14 @@ ParaMonte: Parallel Monte Carlo and Machine Learning Library for Python, MATLAB,
 
 ---
 
+## [andycai/cprimer](https://github.com/andycai/cprimer) [详细](../repos/andycai_cprimer.md)
+
+⭐ 305 
+
+C/C++ Primer
+
+---
+
 ## [tiledesk/tiledesk](https://github.com/tiledesk/tiledesk) [详细](../repos/tiledesk_tiledesk.md)
 
 ⭐ 303 🌐 Mustache
@@ -2635,6 +2843,14 @@ Install Tiledesk on your server using Helm for Kubernetes orchestration and Dock
 ⭐ 301 🌐 Perl
 
 Sympa, Mailing List Management Software
+
+---
+
+## [ocaml/ocamlunix](https://github.com/ocaml/ocamlunix) [详细](../repos/ocaml_ocamlunix.md)
+
+⭐ 297 🌐 TeX
+
+Unix system programming in OCaml book
 
 ---
 
@@ -2758,6 +2974,14 @@ The DragonFly Mail Agent, a small Mail Transport Agent (MTA), designed for home 
 
 ---
 
+## [ddd-espanol/asombroso-ddd](https://github.com/ddd-espanol/asombroso-ddd) [详细](../repos/ddd-espanol_asombroso-ddd.md)
+
+⭐ 241 
+
+Una lista cuidadosamente curada de recursos sobre Domain Driven Design, Eventos, Event Sourcing, Com
+
+---
+
 ## [backprop-ai/backprop](https://github.com/backprop-ai/backprop) [详细](../repos/backprop-ai_backprop.md)
 
 ⭐ 240 🌐 Python
@@ -2822,6 +3046,14 @@ Neural networks in Rust
 
 ---
 
+## [Naitsirc98/Vulkan-Tutorial-Java](https://github.com/Naitsirc98/Vulkan-Tutorial-Java) [详细](../repos/Naitsirc98_Vulkan-Tutorial-Java.md)
+
+⭐ 207 🌐 Java
+
+Vulkan tutorial by Alexander Overvoorde ported to Java
+
+---
+
 ## [transcendent-ai-labs/DynaML](https://github.com/transcendent-ai-labs/DynaML) [详细](../repos/transcendent-ai-labs_DynaML.md)
 
 ⭐ 202 🌐 Scala
@@ -2846,11 +3078,35 @@ Face detection using deep learning.
 
 ---
 
+## [nauvalazhar/pengantar-vi-improved](https://github.com/nauvalazhar/pengantar-vi-improved) [详细](../repos/nauvalazhar_pengantar-vi-improved.md)
+
+⭐ 185 
+
+Pengantar Vi iMproved: Sebuah panduan praktikal Vim sebagai editor teks sehari-hari (PDF)
+
+---
+
+## [yzh44yzh/elixir_course](https://github.com/yzh44yzh/elixir_course) [详细](../repos/yzh44yzh_elixir_course.md)
+
+⭐ 180 🌐 TeX
+
+Elixir language training course, part 1
+
+---
+
 ## [comet-ml/comet-examples](https://github.com/comet-ml/comet-examples) [详细](../repos/comet-ml_comet-examples.md)
 
 ⭐ 174 🌐 Jupyter Notebook
 
 Examples of Machine Learning code using Comet.ml 
+
+---
+
+## [mgaitan/curso-python-cientifico](https://github.com/mgaitan/curso-python-cientifico) [详细](../repos/mgaitan_curso-python-cientifico.md)
+
+⭐ 169 🌐 Jupyter Notebook
+
+Curso de Python orientado a estudiantes de ciencias e ingeniería, profesores, investigadores e ingen
 
 ---
 
@@ -3030,6 +3286,14 @@ Brainstorm, organize, and prioritize ideas effortlessly. Use it as a collaborati
 
 ---
 
+## [AkmmusAI/LLM-Prompt-Engineering-Simplified-Book](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) [详细](../repos/AkmmusAI_LLM-Prompt-Engineering-Simplified-Book.md)
+
+⭐ 127 
+
+LLM Prompting Engineering Simplified Book
+
+---
+
 ## [neptune-ml/open-solution-salt-identification](https://github.com/neptune-ml/open-solution-salt-identification) [详细](../repos/neptune-ml_open-solution-salt-identification.md)
 
 ⭐ 121 🌐 Python
@@ -3118,6 +3382,14 @@ Streams are the future of AI powered by unlimited free tokens.
 
 ---
 
+## [mhenke/CFML-in-100-minutes](https://github.com/mhenke/CFML-in-100-minutes) [详细](../repos/mhenke_CFML-in-100-minutes.md)
+
+⭐ 96 
+
+General CFML tutorial cover 10 items - ColdFusion tutorial
+
+---
+
 ## [htm-community/nupic.studio](https://github.com/htm-community/nupic.studio) [详细](../repos/htm-community_nupic.studio.md)
 
 ⭐ 95 🌐 Python
@@ -3126,11 +3398,27 @@ NuPIC Studio is a powerful all­-in-­one tool that allows users create a HTM ne
 
 ---
 
+## [ftg-iran/aip-persian](https://github.com/ftg-iran/aip-persian) [详细](../repos/ftg-iran_aip-persian.md)
+
+⭐ 95 🌐 Python
+
+ترجمه آزاد کتاب Asyncio in Python
+
+---
+
 ## [ContinuumIO/topik](https://github.com/ContinuumIO/topik) [详细](../repos/ContinuumIO_topik.md)
 
 ⭐ 93 🌐 Python
 
 A Topic Modeling toolbox
+
+---
+
+## [leithaus/XTrace](https://github.com/leithaus/XTrace) [详细](../repos/leithaus_XTrace.md)
+
+⭐ 93 🌐 Scala
+
+An XML-validation-based trace validator
 
 ---
 
@@ -3246,11 +3534,27 @@ tiny neural net
 
 ---
 
+## [raqueeb/ml-python](https://github.com/raqueeb/ml-python) [详细](../repos/raqueeb_ml-python.md)
+
+⭐ 61 🌐 Jupyter Notebook
+
+ML with Python: "শূন্য থেকে পাইথন মেশিন লার্নিং" বইয়ের ওয়ার্কবুক 
+
+---
+
 ## [pascalebeier/hitkeep](https://github.com/pascalebeier/hitkeep) [详细](../repos/pascalebeier_hitkeep.md)
 
 ⭐ 60 🌐 Go
 
 HitKeep is privacy-first analytics for humans and AI agents, self-hosted or in managed EU/US cloud r
+
+---
+
+## [SanQri/safe-by-design](https://github.com/SanQri/safe-by-design) [详细](../repos/SanQri_safe-by-design.md)
+
+⭐ 57 
+
+This book is a distillation of my thoughts on the software creation process — how code evolves, and 
 
 ---
 
@@ -3382,6 +3686,14 @@ TopicModels for Julia
 
 ---
 
+## [JuanitoFatas/rails-style-guide](https://github.com/JuanitoFatas/rails-style-guide) [详细](../repos/JuanitoFatas_rails-style-guide.md)
+
+⭐ 37 
+
+
+
+---
+
 ## [danielcamposramos/Knowledge3D](https://github.com/danielcamposramos/Knowledge3D) [详细](../repos/danielcamposramos_Knowledge3D.md)
 
 ⭐ 36 🌐 Python
@@ -3411,6 +3723,14 @@ HyperAgency (h9y.ai) is agentic AI operating system that replaces brittle/fragme
 ⭐ 32 🌐 Julia
 
 A variety of loaders for various NLP corpora.
+
+---
+
+## [nainglinaung/the-little-go-book](https://github.com/nainglinaung/the-little-go-book) [详细](../repos/nainglinaung_the-little-go-book.md)
+
+⭐ 32 🌐 TeX
+
+
 
 ---
 
@@ -3510,11 +3830,27 @@ An embedded deep learning library for Go.
 
 ---
 
+## [LarryUllman/yiibook2](https://github.com/LarryUllman/yiibook2) [详细](../repos/LarryUllman_yiibook2.md)
+
+⭐ 14 🌐 Mermaid
+
+Source material for "The Yii Book" (2nd edition)
+
+---
+
 ## [JehoshuaM/awesome-huggingface-models](https://github.com/JehoshuaM/awesome-huggingface-models) [详细](../repos/JehoshuaM_awesome-huggingface-models.md)
 
 ⭐ 13 🌐 未知
 
 Top Hugging Face models for NLP, vision, and audio tasks — links, descriptions, and demos included.
+
+---
+
+## [alexanderfefelov/eai-patterns-with-actor-model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) [详细](../repos/alexanderfefelov_eai-patterns-with-actor-model.md)
+
+⭐ 13 
+
+EAI Patterns with Actor Model by Vaughn Vernon
 
 ---
 
@@ -3555,6 +3891,14 @@ Simple Naive Bayes implementation in Julia
 ⭐ 8 🌐 Go
 
 Deep Neural Networks for Golang (powered by MXNet). The new updated version - https://github.com/go-
+
+---
+
+## [matteobaccan/CorsoAIBook](https://github.com/matteobaccan/CorsoAIBook) [详细](../repos/matteobaccan_CorsoAIBook.md)
+
+⭐ 8 🌐 Python
+
+Guida pratica all'uso delle Intelligenze Artificiali
 
 ---
 
@@ -3614,6 +3958,14 @@ Bounded controller for production ML under distribution shift — defers unneces
 
 ---
 
+## [githubtraining/communicating-using-markdown](https://github.com/githubtraining/communicating-using-markdown) [详细](../repos/githubtraining_communicating-using-markdown.md)
+
+⭐ 5 
+
+Course repo for Learning Lab course "Communicating using Markdown". Template repo   ➡
+
+---
+
 ## [junaidaliop/zij](https://github.com/junaidaliop/zij) [详细](../repos/junaidaliop_zij.md)
 
 ⭐ 3 🌐 Python
@@ -3651,6 +4003,14 @@ ANEE is an experimental dynamic inference wrapper for pretrained Transformer lan
  🌐 Python
 
 Python package for quick training, evaluation, and prediction of ML models on cleaned datasets — sup
+
+---
+
+## [mmj-the-fighter/slang_for_dot_net_revision](https://github.com/mmj-the-fighter/slang_for_dot_net_revision) [详细](../repos/mmj-the-fighter_slang_for_dot_net_revision.md)
+
+ 🌐 TeX
+
+This repository contains a reformatted edition of the original SLANG4 .NET book Version 0.1 by Prase
 
 ---
 

@@ -28,4 +28,4 @@ An open source, turn-based strategy game with a high fantasy theme.
 
 ---
 
-*数据收集时间: 2026-06-20 12:36*
+*数据收集时间: 2026-06-20 13:23*

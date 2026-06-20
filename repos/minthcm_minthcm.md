@@ -28,4 +28,4 @@ Open-source HCM system for managing HR processes with AI agents. Full data owner
 
 ---
 
-*数据收集时间: 2026-06-20 12:36*
+*数据收集时间: 2026-06-20 13:23*

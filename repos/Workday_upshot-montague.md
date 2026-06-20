@@ -27,4 +27,4 @@ Montague is a little CCG semantic parsing library for Scala.
 
 ---
 
-*数据收集时间: 2026-06-20 12:36*
+*数据收集时间: 2026-06-20 13:23*

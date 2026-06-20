@@ -28,4 +28,4 @@ High-performance, free and open-source game server management panel. Pterodactyl
 
 ---
 
-*数据收集时间: 2026-06-20 12:36*
+*数据收集时间: 2026-06-20 13:23*

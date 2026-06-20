@@ -2,7 +2,39 @@
 
 > 前端、后端、框架、全栈 Web 开发
 > 
-> 项目数量: 389
+> 项目数量: 535
+
+---
+
+## [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) [详细](../repos/getify_You-Dont-Know-JS.md)
+
+⭐ 184,540 
+
+A book series (2 published editions) on the JS language.
+
+---
+
+## [d3/d3](https://github.com/d3/d3) [详细](../repos/d3_d3.md)
+
+⭐ 113,115 🌐 Shell
+
+Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+
+---
+
+## [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) [详细](../repos/goldbergyoni_nodebestpractices.md)
+
+⭐ 105,354 🌐 Dockerfile
+
+✅ The Node.js best practices list (July 2026)
+
+---
+
+## [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) [详细](../repos/microsoft_Web-Dev-For-Beginners.md)
+
+⭐ 95,882 🌐 JavaScript
+
+24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 ---
 
@@ -62,11 +94,27 @@ The HTML Presentation Framework
 
 ---
 
+## [adam-p/markdown-here](https://github.com/adam-p/markdown-here) [详细](../repos/adam-p_markdown-here.md)
+
+⭐ 60,221 🌐 JavaScript
+
+Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render i
+
+---
+
 ## [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) [详细](../repos/pocketbase_pocketbase.md)
 
 ⭐ 59,195 🌐 Go
 
 Open Source realtime backend in 1 file
+
+---
+
+## [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) [详细](../repos/scutan90_DeepLearning-500-questions.md)
+
+⭐ 57,438 🌐 JavaScript
+
+深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大
 
 ---
 
@@ -110,6 +158,14 @@ Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FT
 
 ---
 
+## [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) [详细](../repos/isocpp_CppCoreGuidelines.md)
+
+⭐ 45,108 🌐 CSS
+
+The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about codi
+
+---
+
 ## [diygod/rsshub](https://github.com/diygod/rsshub) [详细](../repos/diygod_rsshub.md)
 
 ⭐ 44,828 🌐 TypeScript
@@ -118,11 +174,27 @@ Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FT
 
 ---
 
+## [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) [详细](../repos/fastapi_full-stack-fastapi-template.md)
+
+⭐ 43,763 🌐 TypeScript
+
+Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, Git
+
+---
+
 ## [payloadcms/payload](https://github.com/payloadcms/payload) [详细](../repos/payloadcms_payload.md)
 
 ⭐ 43,110 🌐 TypeScript
 
 Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get
+
+---
+
+## [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) [详细](../repos/DataTalksClub_data-engineering-zoomcamp.md)
+
+⭐ 42,619 🌐 Jupyter Notebook
+
+Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The n
 
 ---
 
@@ -150,11 +222,27 @@ Collection of handy online tools for developers, with great UX.
 
 ---
 
+## [google/styleguide](https://github.com/google/styleguide) [详细](../repos/google_styleguide.md)
+
+⭐ 39,385 🌐 HTML
+
+Style guides for Google-originated open-source projects
+
+---
+
 ## [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) [详细](../repos/amruthpillai_reactive-resume.md)
 
 ⭐ 38,739 🌐 TypeScript
 
 A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, por
+
+---
+
+## [vlang/v](https://github.com/vlang/v) [详细](../repos/vlang_v.md)
+
+⭐ 37,643 🌐 V
+
+Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s w
 
 ---
 
@@ -230,6 +318,14 @@ A highly customizable homepage (or startpage / application dashboard) with Docke
 
 ---
 
+## [aosabook/500lines](https://github.com/aosabook/500lines) [详细](../repos/aosabook_500lines.md)
+
+⭐ 29,582 🌐 JavaScript
+
+500 Lines or Less
+
+---
+
 ## [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) [详细](../repos/jitsi_jitsi-meet.md)
 
 ⭐ 29,459 🌐 TypeScript
@@ -286,6 +382,14 @@ Zulip server and web application. Open-source team chat that helps teams stay pr
 
 ---
 
+## [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) [详细](../repos/bitcoinbook_bitcoinbook.md)
+
+⭐ 25,218 🌐 HTML
+
+Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
+
+---
+
 ## [arendst/tasmota](https://github.com/arendst/tasmota) [详细](../repos/arendst_tasmota.md)
 
 ⭐ 24,494 🌐 C
@@ -302,11 +406,27 @@ Data Apps & Dashboards for Python. No JavaScript Required.
 
 ---
 
+## [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) [详细](../repos/johnpapa_angular-styleguide.md)
+
+⭐ 23,648 🌐 Vim Snippet
+
+Angular Style Guide: A starting point for Angular development teams to provide consistency through g
+
+---
+
 ## [node-red/node-red](https://github.com/node-red/node-red) [详细](../repos/node-red_node-red.md)
 
 ⭐ 23,324 🌐 JavaScript
 
 Low-code programming for event-driven applications
+
+---
+
+## [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) [详细](../repos/judasn_IntelliJ-IDEA-Tutorial.md)
+
+⭐ 22,111 
+
+IntelliJ IDEA 简体中文专题教程
 
 ---
 
@@ -318,11 +438,35 @@ Package gorilla/mux is a powerful HTTP router and URL matcher for building Go we
 
 ---
 
+## [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) [详细](../repos/ethereumbook_ethereumbook.md)
+
+⭐ 21,523 
+
+Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Ma
+
+---
+
 ## [m1k1o/neko](https://github.com/m1k1o/neko) [详细](../repos/m1k1o_neko.md)
 
 ⭐ 21,149 🌐 Go
 
 A self hosted virtual browser that runs in docker and uses WebRTC.
+
+---
+
+## [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) [详细](../repos/chai2010_advanced-go-programming-book.md)
+
+⭐ 20,062 🌐 Go
+
+:books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+
+---
+
+## [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) [详细](../repos/lettier_3d-game-shaders-for-beginners.md)
+
+⭐ 19,695 🌐 C++
+
+🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for 
 
 ---
 
@@ -366,6 +510,14 @@ A web-based collaborative LaTeX editor
 
 ---
 
+## [vasanthk/react-bits](https://github.com/vasanthk/react-bits) [详细](../repos/vasanthk_react-bits.md)
+
+⭐ 17,412 
+
+✨ React patterns, techniques, tips and tricks ✨
+
+---
+
 ## [koel/koel](https://github.com/koel/koel) [详细](../repos/koel_koel.md)
 
 ⭐ 17,168 🌐 PHP
@@ -374,11 +526,27 @@ Music streaming solution that works.
 
 ---
 
+## [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) [详细](../repos/getify_Functional-Light-JS.md)
+
+⭐ 16,762 🌐 JavaScript
+
+Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
+
+---
+
 ## [suitenumerique/docs](https://github.com/suitenumerique/docs) [详细](../repos/suitenumerique_docs.md)
 
 ⭐ 16,600 🌐 Python
 
 A collaborative note taking, wiki and documentation platform that scales. Built with Django and Reac
+
+---
+
+## [alsotang/node-lessons](https://github.com/alsotang/node-lessons) [详细](../repos/alsotang_node-lessons.md)
+
+⭐ 16,450 🌐 JavaScript
+
+:closed_book:《Node.js 包教不包会》 by alsotang
 
 ---
 
@@ -483,6 +651,14 @@ Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 ⭐ 13,748 🌐 JavaScript
 
 The Privacy First PDF Toolkit
+
+---
+
+## [tuhdo/os01](https://github.com/tuhdo/os01) [详细](../repos/tuhdo_os01.md)
+
+⭐ 13,589 🌐 TeX
+
+Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
 ---
 
@@ -654,6 +830,14 @@ Self-hosted collection of powerful web-based tools for everyday tasks. No ads, n
 
 ---
 
+## [AlloyTeam/Mars](https://github.com/AlloyTeam/Mars) [详细](../repos/AlloyTeam_Mars.md)
+
+⭐ 9,710 
+
+腾讯移动 Web 前端知识库
+
+---
+
 ## [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) [详细](../repos/bigbluebutton_bigbluebutton.md)
 
 ⭐ 9,156 🌐 JavaScript
@@ -702,11 +886,27 @@ Open-Source Form Builder
 
 ---
 
+## [azat-io/you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) [详细](../repos/azat-io_you-dont-know-js-ru.md)
+
+⭐ 8,772 
+
+📚 Russian translation of "You Don't Know JS" book series
+
+---
+
 ## [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) [详细](../repos/ghostfolio_ghostfolio.md)
 
 ⭐ 8,770 🌐 TypeScript
 
 Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+
+---
+
+## [jstherightway/js-the-right-way](https://github.com/jstherightway/js-the-right-way) [详细](../repos/jstherightway_js-the-right-way.md)
+
+⭐ 8,686 🌐 HTML
+
+An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around 
 
 ---
 
@@ -750,6 +950,22 @@ A Dark Room - A Minimalist Text Adventure
 
 ---
 
+## [thejsway/thejsway](https://github.com/thejsway/thejsway) [详细](../repos/thejsway_thejsway.md)
+
+⭐ 7,884 🌐 CSS
+
+The JavaScript Way book
+
+---
+
+## [phodal/growth-ebook](https://github.com/phodal/growth-ebook) [详细](../repos/phodal_growth-ebook.md)
+
+⭐ 7,800 🌐 HTML
+
+Growth Engineering: The Definitive Guide。全栈增长工程师指南
+
+---
+
 ## [dolibarr/dolibarr](https://github.com/dolibarr/dolibarr) [详细](../repos/dolibarr_dolibarr.md)
 
 ⭐ 7,330 🌐 PHP
@@ -790,6 +1006,14 @@ Sandstorm is a self-hostable web productivity suite. It's implemented as a secur
 
 ---
 
+## [airbnb/css](https://github.com/airbnb/css) [详细](../repos/airbnb_css.md)
+
+⭐ 6,981 
+
+A mostly reasonable approach to CSS and Sass.
+
+---
+
 ## [cazala/synaptic](https://github.com/cazala/synaptic) [详细](../repos/cazala_synaptic.md)
 
 ⭐ 6,920 🌐 JavaScript
@@ -803,6 +1027,14 @@ architecture-free neural network library for node.js and the browser
 ⭐ 6,741 🌐 Python
 
 The SimpleLogin back-end and web app
+
+---
+
+## [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) [详细](../repos/jkchao_typescript-book-chinese.md)
+
+⭐ 6,646 🌐 TypeScript
+
+TypeScript Deep Dive 中文版 
 
 ---
 
@@ -862,11 +1094,27 @@ Web based localization tool with tight version control integration.
 
 ---
 
+## [toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) [详细](../repos/toddmotto_angularjs-styleguide.md)
+
+⭐ 5,919 
+
+AngularJS styleguide for teams
+
+---
+
 ## [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) [详细](../repos/stdlib-js_stdlib.md)
 
 ⭐ 5,863 🌐 JavaScript
 
 ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
+
+---
+
+## [nao-sabemos-js/You-Dont-Know-JS](https://github.com/nao-sabemos-js/You-Dont-Know-JS) [详细](../repos/nao-sabemos-js_You-Dont-Know-JS.md)
+
+⭐ 5,834 🌐 JavaScript
+
+📗📒 (PT-Br translation) JS Book Series.
 
 ---
 
@@ -958,6 +1206,14 @@ package for building REST-style Web Services using Go
 
 ---
 
+## [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) [详细](../repos/cssanimation_css-animation-101.md)
+
+⭐ 5,062 🌐 CSS
+
+Learn how to bring animation to your web projects
+
+---
+
 ## [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) [详细](../repos/mediacms-io_mediacms.md)
 
 ⭐ 4,970 🌐 JavaScript
@@ -979,6 +1235,14 @@ Cloud Database Manager
 ⭐ 4,941 🌐 C
 
 FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary 
+
+---
+
+## [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) [详细](../repos/mgechev_angularjs-style-guide.md)
+
+⭐ 4,925 
+
+📚 Community-driven set of best practices for AngularJS application development
 
 ---
 
@@ -1011,6 +1275,14 @@ A web frontend for the motion daemon.
 ⭐ 4,575 🌐 JavaScript
 
 A full-featured, open-source content management framework built with Node.js that empowers organizat
+
+---
+
+## [realpython/discover-flask](https://github.com/realpython/discover-flask) [详细](../repos/realpython_discover-flask.md)
+
+⭐ 4,548 🌐 Python
+
+Full Stack Web Development with Flask.
 
 ---
 
@@ -1054,6 +1326,14 @@ Open-source event management and ticket selling platform — perfect for concert
 
 ---
 
+## [azat-co/practicalnode](https://github.com/azat-co/practicalnode) [详细](../repos/azat-co_practicalnode.md)
+
+⭐ 3,787 🌐 JavaScript
+
+Practical Node.js, 1st and 2nd Editions [Apress] 📓
+
+---
+
 ## [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) [详细](../repos/ever-co_ever-gauzy.md)
 
 ⭐ 3,738 🌐 TypeScript
@@ -1094,6 +1374,14 @@ SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performanc
 
 ---
 
+## [elastic/elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) [详细](../repos/elastic_elasticsearch-definitive-guide.md)
+
+⭐ 3,572 🌐 HTML
+
+The Definitive Guide to Elasticsearch
+
+---
+
 ## [go-macaron/macaron](https://github.com/go-macaron/macaron) [详细](../repos/go-macaron_macaron.md)
 
 ⭐ 3,545 🌐 Go
@@ -1102,11 +1390,27 @@ Package macaron is a high productive and modular web framework in Go.
 
 ---
 
+## [HowProgrammingWorks/Index](https://github.com/HowProgrammingWorks/Index) [详细](../repos/HowProgrammingWorks_Index.md)
+
+⭐ 3,537 
+
+Metarhia educational program index 📖
+
+---
+
 ## [epinna/weevely3](https://github.com/epinna/weevely3) [详细](../repos/epinna_weevely3.md)
 
 ⭐ 3,528 🌐 Python
 
 Weaponized web shell
+
+---
+
+## [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO) [详细](../repos/subhashchy_The-Accidental-CTO.md)
+
+⭐ 3,520 🌐 TypeScript
+
+How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handb
 
 ---
 
@@ -1123,6 +1427,14 @@ simple statistics for node & browser javascript
 ⭐ 3,505 🌐 Python
 
 Mail hosting made simple
+
+---
+
+## [hyper0x/go_command_tutorial](https://github.com/hyper0x/go_command_tutorial) [详细](../repos/hyper0x_go_command_tutorial.md)
+
+⭐ 3,454 🌐 HTML
+
+Golang command tutorial in Chinese.
 
 ---
 
@@ -1158,6 +1470,14 @@ Web-based XMPP/Jabber chat written in JavaScript
 
 ---
 
+## [thewhitetulip/web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) [详细](../repos/thewhitetulip_web-dev-golang-anti-textbook.md)
+
+⭐ 3,246 🌐 Go
+
+Learn how to write webapps without a framework in Go.
+
+---
+
 ## [diced/zipline](https://github.com/diced/zipline) [详细](../repos/diced_zipline.md)
 
 ⭐ 3,230 🌐 TypeScript
@@ -1171,6 +1491,14 @@ A ShareX/file upload server that is easy to use, packed with features, and with 
 ⭐ 3,164 🌐 TypeScript
 
 An open source, self-hosted platform for sharing and managing your most frequently used links. Easil
+
+---
+
+## [glaucia86/curso-typescript-zero-to-hero](https://github.com/glaucia86/curso-typescript-zero-to-hero) [详细](../repos/glaucia86_curso-typescript-zero-to-hero.md)
+
+⭐ 3,156 🌐 TypeScript
+
+Repositório responsável pelo Curso de TypeScript - Zero to Hero
 
 ---
 
@@ -1211,6 +1539,14 @@ Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build hig
 ⭐ 3,065 🌐 JavaScript
 
 A privacy-first, open-source home assistant
+
+---
+
+## [1sters/material_design_zh](https://github.com/1sters/material_design_zh) [详细](../repos/1sters_material_design_zh.md)
+
+⭐ 3,053 🌐 CSS
+
+Material Design 中文协同翻译 - design.1sters.com
 
 ---
 
@@ -1326,6 +1662,14 @@ WebThings Gateway - a self-hosted web application for monitoring and controlling
 
 ---
 
+## [clojure-cookbook/clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook) [详细](../repos/clojure-cookbook_clojure-cookbook.md)
+
+⭐ 2,617 🌐 Clojure
+
+This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com
+
+---
+
 ## [hargata/lubelog](https://github.com/hargata/lubelog) [详细](../repos/hargata_lubelog.md)
 
 ⭐ 2,616 🌐 JavaScript
@@ -1355,6 +1699,22 @@ Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
 ⭐ 2,583 🌐 未知
 
 An Awesome List for getting started with web archiving
+
+---
+
+## [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide) [详细](../repos/bolasblack_http-api-guide.md)
+
+⭐ 2,558 
+
+
+
+---
+
+## [revolunet/JSbooks](https://github.com/revolunet/JSbooks) [详细](../repos/revolunet_JSbooks.md)
+
+⭐ 2,525 🌐 CSS
+
+Directory of free JavaScript ebooks
 
 ---
 
@@ -1566,11 +1926,27 @@ A graphical server OS optimized for self-hosting
 
 ---
 
+## [visionmedia/masteringnode](https://github.com/visionmedia/masteringnode) [详细](../repos/visionmedia_masteringnode.md)
+
+⭐ 1,842 🌐 JavaScript
+
+Open source eBook for nodejs - written w/ markdown, outputs to various formats (pdf, mobi, epub, htm
+
+---
+
 ## [hoshinosuzumi/chronoframe](https://github.com/hoshinosuzumi/chronoframe) [详细](../repos/hoshinosuzumi_chronoframe.md)
 
 ⭐ 1,841 🌐 Vue
 
 Self-hosted personal gallery application with online photo management and albums, supporting Live/Mo
+
+---
+
+## [justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) [详细](../repos/justinyhuang_Functional-Programming-For-The-Rest-of-Us-Cn.md)
+
+⭐ 1,822 
+
+文章《Functional Programming For The Rest of Us》的中文翻译
 
 ---
 
@@ -1598,11 +1974,35 @@ Fluidd, the klipper UI.
 
 ---
 
+## [hoosin/mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites) [详细](../repos/hoosin_mobile-web-favorites.md)
+
+⭐ 1,742 
+
+This is a favorites, with a mobile web tips.
+
+---
+
 ## [litlyx/litlyx](https://github.com/litlyx/litlyx) [详细](../repos/litlyx_litlyx.md)
 
 ⭐ 1,734 🌐 TypeScript
 
 Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dash
+
+---
+
+## [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) [详细](../repos/quantifiedcode_python-anti-patterns.md)
+
+⭐ 1,732 🌐 HTML
+
+An open collection of Python anti-patterns and worst practices.
+
+---
+
+## [RafeKettler/magicmethods](https://github.com/RafeKettler/magicmethods) [详细](../repos/RafeKettler_magicmethods.md)
+
+⭐ 1,719 🌐 HTML
+
+Guide to Python's magic methods
 
 ---
 
@@ -1622,6 +2022,14 @@ Selfhosted tournament system
 
 ---
 
+## [samanthaming/Flexbox30](https://github.com/samanthaming/Flexbox30) [详细](../repos/samanthaming_Flexbox30.md)
+
+⭐ 1,614 
+
+Learn Flexbox in 30 days with 30 code tidbits ✨
+
+---
+
 ## [calzoneman/sync](https://github.com/calzoneman/sync) [详细](../repos/calzoneman_sync.md)
 
 ⭐ 1,572 🌐 JavaScript
@@ -1635,6 +2043,14 @@ Node.JS Server and JavaScript/HTML Client for synchronizing online media
 ⭐ 1,561 🌐 TypeScript
 
 An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs 
+
+---
+
+## [gotgit/gotgithub](https://github.com/gotgit/gotgithub) [详细](../repos/gotgit_gotgithub.md)
+
+⭐ 1,496 🌐 CSS
+
+GotGitHub: an open source E-book about GitHub in Chinese
 
 ---
 
@@ -1654,6 +2070,14 @@ A Code Playground That Just Works!
 
 ---
 
+## [waylau/spring-framework-4-reference](https://github.com/waylau/spring-framework-4-reference) [详细](../repos/waylau_spring-framework-4-reference.md)
+
+⭐ 1,452 
+
+Chinese translation of the Spring Framework 4.x Reference Documentation (https://docs.spring.io/spri
+
+---
+
 ## [sassanix/warracker](https://github.com/sassanix/warracker) [详细](../repos/sassanix_warracker.md)
 
 ⭐ 1,448 🌐 JavaScript
@@ -1667,6 +2091,22 @@ A Code Playground That Just Works!
 ⭐ 1,436 🌐 Vue
 
 My additions (and of others) to it-tools! (Collection of handy online tools for developers, with gre
+
+---
+
+## [ReactiveX/learnrx](https://github.com/ReactiveX/learnrx) [详细](../repos/ReactiveX_learnrx.md)
+
+⭐ 1,401 🌐 JavaScript
+
+A series of interactive exercises for learning Microsoft's Reactive Extensions Library for Javascrip
+
+---
+
+## [3dgen/cppwasm-book](https://github.com/3dgen/cppwasm-book) [详细](../repos/3dgen_cppwasm-book.md)
+
+⭐ 1,399 🌐 C++
+
+:books: WebAssembly friendly programming with C/C++ -- Emscripten practice
 
 ---
 
@@ -1691,6 +2131,22 @@ Automate your life!
 ⭐ 1,371 🌐 Python
 
 A  shared budget web application
+
+---
+
+## [darcyliu/google-styleguide](https://github.com/darcyliu/google-styleguide) [详细](../repos/darcyliu_google-styleguide.md)
+
+⭐ 1,369 🌐 HTML
+
+Mirror of "Style guides for Google-originated open-source projects"
+
+---
+
+## [softchris/react-book](https://github.com/softchris/react-book) [详细](../repos/softchris_react-book.md)
+
+⭐ 1,357 🌐 JavaScript
+
+Free book on React. Beginner to intermediate.
 
 ---
 
@@ -1731,6 +2187,14 @@ Web application for automatically downloading TV & Movies (w/ VPN)
 ⭐ 1,240 🌐 TypeScript
 
 Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content w
+
+---
+
+## [pazams/go-for-javascript-developers](https://github.com/pazams/go-for-javascript-developers) [详细](../repos/pazams_go-for-javascript-developers.md)
+
+⭐ 1,238 🌐 HTML
+
+A comparison between Go and Javascript
 
 ---
 
@@ -1838,6 +2302,38 @@ Powerful and easy to use cms to build websites, blogs or ecommerce stores.
 
 ---
 
+## [bobbyiliev/introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) [详细](../repos/bobbyiliev_introduction-to-git-and-github-ebook.md)
+
+⭐ 1,068 🌐 HTML
+
+Free Introduction to Git and GitHub eBook
+
+---
+
+## [bespoyasov/refactor-like-a-superhero](https://github.com/bespoyasov/refactor-like-a-superhero) [详细](../repos/bespoyasov_refactor-like-a-superhero.md)
+
+⭐ 1,067 
+
+How to refactor code efficiently and without pain.
+
+---
+
+## [AlbertoMontalesi/The-complete-guide-to-modern-JavaScript](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript) [详细](../repos/AlbertoMontalesi_The-complete-guide-to-modern-JavaScript.md)
+
+⭐ 1,057 
+
+A comprehensive, easy-to-follow ebook to learn everything from the basics of JavaScript to ES2022. R
+
+---
+
+## [AvrahamRaviv/Deep-Learning-in-Hebrew](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) [详细](../repos/AvrahamRaviv_Deep-Learning-in-Hebrew.md)
+
+⭐ 1,014 🌐 HTML
+
+ספר מלא בעברית על למידת מכונה ולמידה עמוקה
+
+---
+
 ## [kiwiirc/kiwiirc](https://github.com/kiwiirc/kiwiirc) [详细](../repos/kiwiirc_kiwiirc.md)
 
 ⭐ 980 🌐 Vue
@@ -1867,6 +2363,14 @@ A web client for WeeChat
 ⭐ 950 🌐 JavaScript
 
 Curve Fitting in JavaScript.
+
+---
+
+## [the5fire/backbonejs-learning-note](https://github.com/the5fire/backbonejs-learning-note) [详细](../repos/the5fire_backbonejs-learning-note.md)
+
+⭐ 940 🌐 JavaScript
+
+backbonejs学习笔记更新版，使用backbone1.1.0
 
 ---
 
@@ -1926,6 +2430,22 @@ Scientific and statistical computing in JavaScript.
 
 ---
 
+## [zalopay-oss/go-advanced](https://github.com/zalopay-oss/go-advanced) [详细](../repos/zalopay-oss_go-advanced.md)
+
+⭐ 855 
+
+A small Vietnamese Go book compiled by ZaloPay teams.
+
+---
+
+## [waylau/github-help](https://github.com/waylau/github-help) [详细](../repos/waylau_github-help.md)
+
+⭐ 839 
+
+Chinese translation of the Github Help(https://help.github.com/index.html) and the other article col
+
+---
+
 ## [bhj/karaokeeternal](https://github.com/bhj/karaokeeternal) [详细](../repos/bhj_karaokeeternal.md)
 
 ⭐ 825 🌐 TypeScript
@@ -1939,6 +2459,14 @@ Open karaoke party system
 ⭐ 822 🌐 Go
 
 This is only a mirror and Moved to https://gitea.com/lunny/tango
+
+---
+
+## [zilongshanren/opengl-tutorials](https://github.com/zilongshanren/opengl-tutorials) [详细](../repos/zilongshanren_opengl-tutorials.md)
+
+⭐ 817 
+
+http://opengl.zilongshanren.com
 
 ---
 
@@ -1990,6 +2518,14 @@ A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and a
 
 ---
 
+## [bwasty/vulkan-tutorial-rs](https://github.com/bwasty/vulkan-tutorial-rs) [详细](../repos/bwasty_vulkan-tutorial-rs.md)
+
+⭐ 748 🌐 Rust
+
+Rust version of https://github.com/Overv/VulkanTutorial
+
+---
+
 ## [enchant97/note-mark](https://github.com/enchant97/note-mark) [详细](../repos/enchant97_note-mark.md)
 
 ⭐ 744 🌐 TypeScript
@@ -2014,11 +2550,27 @@ Personal Web Assistant
 
 ---
 
+## [hateonion/react-bits-CN](https://github.com/hateonion/react-bits-CN) [详细](../repos/hateonion_react-bits-CN.md)
+
+⭐ 709 
+
+✨ React patterns, techniques, tips and tricks ✨   中文版的https://github.com/vasanthk/react-bits
+
+---
+
 ## [amritb/socketio-client-tool](https://github.com/amritb/socketio-client-tool) [详细](../repos/amritb_socketio-client-tool.md)
 
 ⭐ 696 🌐 JavaScript
 
 3. **Refine & Verify:** Let's ensure it strictly follows the prompt: - First sentence summarizes: 该项
+
+---
+
+## [elm-city-craftworks/practicing-ruby-manuscripts](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts) [详细](../repos/elm-city-craftworks_practicing-ruby-manuscripts.md)
+
+⭐ 691 🌐 HTML
+
+Collection of source manuscripts for publicly released Practicing Ruby articles
 
 ---
 
@@ -2030,11 +2582,27 @@ A multiplayer geography game using Websockets
 
 ---
 
+## [chadluo/CSS-Guidelines](https://github.com/chadluo/CSS-Guidelines) [详细](../repos/chadluo_CSS-Guidelines.md)
+
+⭐ 677 
+
+a zh-CN translation
+
+---
+
 ## [mozilla/fxa](https://github.com/mozilla/fxa) [详细](../repos/mozilla_fxa.md)
 
 ⭐ 675 🌐 TypeScript
 
 Monorepo for Mozilla Accounts (formerly Firefox Accounts)
+
+---
+
+## [statickidz/TemarioDAW](https://github.com/statickidz/TemarioDAW) [详细](../repos/statickidz_TemarioDAW.md)
+
+⭐ 674 🌐 PLSQL
+
+Temario, apuntes y ejercicios para el módulo de Desarrollo de Aplicaciones Web (DAW)
 
 ---
 
@@ -2054,6 +2622,14 @@ Drop is an open-source game distribution platform.
 
 ---
 
+## [cassiozen/ReactCasts](https://github.com/cassiozen/ReactCasts) [详细](../repos/cassiozen_ReactCasts.md)
+
+⭐ 650 🌐 JavaScript
+
+Source code for ReactCasts
+
+---
+
 ## [nuskooler/enigma-bbs](https://github.com/nuskooler/enigma-bbs) [详细](../repos/nuskooler_enigma-bbs.md)
 
 ⭐ 648 🌐 JavaScript
@@ -2067,6 +2643,14 @@ ENiGMA½ BBS Software
 ⭐ 638 🌐 Python
 
 The Django project driving dpaste.org
+
+---
+
+## [adamlu/javascript-style-guide](https://github.com/adamlu/javascript-style-guide) [详细](../repos/adamlu_javascript-style-guide.md)
+
+⭐ 635 
+
+JavaScript规范
 
 ---
 
@@ -2118,11 +2702,27 @@ Manage My Damn Life (MMDL) is a self-hosted frontend for managing your CalDAV ta
 
 ---
 
+## [GraphQLCollege/fullstack-graphql](https://github.com/GraphQLCollege/fullstack-graphql) [详细](../repos/GraphQLCollege_fullstack-graphql.md)
+
+⭐ 597 🌐 CSS
+
+A book to learn GraphQL with a hands-on approach
+
+---
+
 ## [bolt/core](https://github.com/bolt/core) [详细](../repos/bolt_core.md)
 
 ⭐ 583 🌐 PHP
 
 🧿 Bolt core
+
+---
+
+## [astaxie/NPWG_zh](https://github.com/astaxie/NPWG_zh) [详细](../repos/astaxie_NPWG_zh.md)
+
+⭐ 581 🌐 HTML
+
+Network programming with Go 中文翻译版本
 
 ---
 
@@ -2147,6 +2747,14 @@ A CalDAV/CardDAV server backed by Git
 ⭐ 571 🌐 Java
 
 Multitenant backend server for building web and mobile apps rapidly. The backend for busy developers
+
+---
+
+## [zensh/AngularjsTutorial_cn](https://github.com/zensh/AngularjsTutorial_cn) [详细](../repos/zensh_AngularjsTutorial_cn.md)
+
+⭐ 569 
+
+AngularJS入门教程——AngularJS中文社区提供
 
 ---
 
@@ -2262,6 +2870,22 @@ Encrypted Diary Web-App
 
 ---
 
+## [animator/learn-python](https://github.com/animator/learn-python) [详细](../repos/animator_learn-python.md)
+
+⭐ 479 🌐 Python
+
+📖🐍 Free & Open Source book to master Python 3. Also available: PDF & Web Interface.
+
+---
+
+## [bobbyiliev/introduction-to-sql](https://github.com/bobbyiliev/introduction-to-sql) [详细](../repos/bobbyiliev_introduction-to-sql.md)
+
+⭐ 475 🌐 HTML
+
+Free Introduction to SQL eBook
+
+---
+
 ## [hasangergames/suroi](https://github.com/hasangergames/suroi) [详细](../repos/hasangergames_suroi.md)
 
 ⭐ 472 🌐 TypeScript
@@ -2294,6 +2918,22 @@ readflow is a news-reading (or read-it-later) solution focused on versatility an
 
 ---
 
+## [waylau/rest-in-action](https://github.com/waylau/rest-in-action) [详细](../repos/waylau_rest-in-action.md)
+
+⭐ 467 
+
+REST in Action 《REST 实战》。基于 Jersey 构建 RESTful 服务。
+
+---
+
+## [waylau/apache-shiro-1.2.x-reference](https://github.com/waylau/apache-shiro-1.2.x-reference) [详细](../repos/waylau_apache-shiro-1.2.x-reference.md)
+
+⭐ 464 
+
+Chinese translation of the Apache Shiro Reference Manual(http://shiro.apache.org/reference) and the 
+
+---
+
 ## [speedwheel/awesome-go-web-frameworks](https://github.com/speedwheel/awesome-go-web-frameworks) [详细](../repos/speedwheel_awesome-go-web-frameworks.md)
 
 ⭐ 462 
@@ -2307,6 +2947,22 @@ readflow is a news-reading (or read-it-later) solution focused on versatility an
 ⭐ 456 🌐 PHP
 
 Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
+
+---
+
+## [2DGD-F0TH/2DGD_F0TH](https://github.com/2DGD-F0TH/2DGD_F0TH) [详细](../repos/2DGD-F0TH_2DGD_F0TH.md)
+
+⭐ 456 🌐 Lua
+
+[CC BY-NC-SA] A compendium of the community knowledge on game design and development
+
+---
+
+## [alindeman/upgradingtorails4](https://github.com/alindeman/upgradingtorails4) [详细](../repos/alindeman_upgradingtorails4.md)
+
+⭐ 452 🌐 CSS
+
+Upgrading to Rails 4 e-book
 
 ---
 
@@ -2350,11 +3006,35 @@ AWStats Log Analyzer project (official sources)
 
 ---
 
+## [gungunfebrianza/Belajar-Dengan-Jenius-Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js) [详细](../repos/gungunfebrianza_Belajar-Dengan-Jenius-Node.js.md)
+
+⭐ 430 🌐 JavaScript
+
+:books: PinterCoding University. Author : Gun Gun Febrianza
+
+---
+
+## [karmazzin/eloquentjavascript_ru](https://github.com/karmazzin/eloquentjavascript_ru) [详细](../repos/karmazzin_eloquentjavascript_ru.md)
+
+⭐ 423 🌐 CSS
+
+
+
+---
+
 ## [ivpusic/neo](https://github.com/ivpusic/neo) [详细](../repos/ivpusic_neo.md)
 
 ⭐ 415 🌐 Go
 
 Go Web Framework
+
+---
+
+## [nodejs-tw/nodejs-wiki-book](https://github.com/nodejs-tw/nodejs-wiki-book) [详细](../repos/nodejs-tw_nodejs-wiki-book.md)
+
+⭐ 413 🌐 JavaScript
+
+Node.js Taiwan 社群協作中文電子書
 
 ---
 
@@ -2366,11 +3046,27 @@ Christmas lists for families
 
 ---
 
+## [theJian/build-a-hn-front-page](https://github.com/theJian/build-a-hn-front-page) [详细](../repos/theJian_build-a-hn-front-page.md)
+
+⭐ 409 
+
+Learn React & Webpack by building a hacker news front page
+
+---
+
 ## [elliotforbes/go-webassembly-framework](https://github.com/elliotforbes/go-webassembly-framework) [详细](../repos/elliotforbes_go-webassembly-framework.md)
 
 ⭐ 396 🌐 Go
 
 是一个基于 Go 语言构建的 WebAssembly 前端开发框架。 该框架允许开发者使用 Go 语言直接编写前端应用，通过编译为 WebAssembly 技术在浏览器中运行。它提供了组件化开发、状态
+
+---
+
+## [eimg/rsd25](https://github.com/eimg/rsd25) [详细](../repos/eimg_rsd25.md)
+
+⭐ 394 🌐 JavaScript
+
+Rockstar Developer 2025 - Book and Source Code
 
 ---
 
@@ -2382,11 +3078,27 @@ Connect, Collect, Build, and Scale with FlowFuse
 
 ---
 
+## [xufei/Make-Your-Own-AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS) [详细](../repos/xufei_Make-Your-Own-AngularJS.md)
+
+⭐ 389 
+
+some articles about AngularJS
+
+---
+
 ## [muety/anchr](https://github.com/muety/anchr) [详细](../repos/muety_anchr.md)
 
 ⭐ 385 🌐 JavaScript
 
 ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
+
+---
+
+## [madeindjs/api_on_rails](https://github.com/madeindjs/api_on_rails) [详细](../repos/madeindjs_api_on_rails.md)
+
+⭐ 382 🌐 Ruby
+
+Learn best practices to build an API using Ruby on Rails 5/6
 
 ---
 
@@ -2438,6 +3150,22 @@ A minimalist file-manager with streaming capabilities
 
 ---
 
+## [jollen/nodejs-fullstack-book](https://github.com/jollen/nodejs-fullstack-book) [详细](../repos/jollen_nodejs-fullstack-book.md)
+
+⭐ 356 🌐 JavaScript
+
+Node.js Fullstack《原理與實務》：初學者的 Node.js 全端軟體教材 by Jollen
+
+---
+
+## [luizalabs/tutorial-python-brasil](https://github.com/luizalabs/tutorial-python-brasil) [详细](../repos/luizalabs_tutorial-python-brasil.md)
+
+⭐ 356 🌐 Python
+
+ Construindo API's robustas utilizando Python
+
+---
+
 ## [tinode/webapp](https://github.com/tinode/webapp) [详细](../repos/tinode_webapp.md)
 
 ⭐ 354 🌐 JavaScript
@@ -2483,6 +3211,14 @@ Family Accounting Tool
 ⭐ 340 🌐 Cuda
 
 A CUDA backend for Torch7
+
+---
+
+## [jayli/javascript-patterns](https://github.com/jayli/javascript-patterns) [详细](../repos/jayli_javascript-patterns.md)
+
+⭐ 340 
+
+
 
 ---
 
@@ -2606,6 +3342,14 @@ A lightweight, self-hostable changelog and roadmap web application that lets you
 
 ---
 
+## [torbjoernk/CppKoans](https://github.com/torbjoernk/CppKoans) [详细](../repos/torbjoernk_CppKoans.md)
+
+⭐ 288 🌐 C++
+
+Inspired by RubyKoans and JavaScript-Koans, this is an attemt to write such koans for C/C++.
+
+---
+
 ## [nathanepstein/datakit](https://github.com/nathanepstein/datakit) [详细](../repos/nathanepstein_datakit.md)
 
 ⭐ 287 🌐 JavaScript
@@ -2646,6 +3390,22 @@ Visually build and edit family trees online. Genea is a completely serverless so
 
 ---
 
+## [fakefish/react-webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook) [详细](../repos/fakefish_react-webpack-cookbook.md)
+
+⭐ 267 🌐 JavaScript
+
+React 和 Webpack 小书
+
+---
+
+## [justjavac/12-javascript-quirks](https://github.com/justjavac/12-javascript-quirks) [详细](../repos/justjavac_12-javascript-quirks.md)
+
+⭐ 263 
+
+javascript 的 12 个怪癖（quirks）
+
+---
+
 ## [jeff1evesque/machine-learning](https://github.com/jeff1evesque/machine-learning) [详细](../repos/jeff1evesque_machine-learning.md)
 
 ⭐ 258 🌐 JavaScript
@@ -2678,6 +3438,30 @@ Gameserver, Voiceserver Webinterface
 
 ---
 
+## [waylau/Jersey-2.x-User-Guide](https://github.com/waylau/Jersey-2.x-User-Guide) [详细](../repos/waylau_Jersey-2.x-User-Guide.md)
+
+⭐ 239 
+
+Jersey 2.x User Guide《Jersey 2.x 用户指南》 ，中文翻译
+
+---
+
+## [caio-ribeiro-pereira/livro-nodejs](https://github.com/caio-ribeiro-pereira/livro-nodejs) [详细](../repos/caio-ribeiro-pereira_livro-nodejs.md)
+
+⭐ 235 🌐 CSS
+
+Repositório público com códigos de exemplos do livro: Aplicações web real-time com Node.js
+
+---
+
+## [PhilippeSigaud/D-templates-tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial) [详细](../repos/PhilippeSigaud_D-templates-tutorial.md)
+
+⭐ 234 🌐 HTML
+
+A tutorial on the D programming language templates.
+
+---
+
 ## [georgemandis/bubo-rss](https://github.com/georgemandis/bubo-rss) [详细](../repos/georgemandis_bubo-rss.md)
 
 ⭐ 231 🌐 TypeScript
@@ -2702,6 +3486,38 @@ NodeJS Implementation of Decision Tree using ID3 Algorithm
 
 ---
 
+## [waylau/apache-mina-2.x-user-guide](https://github.com/waylau/apache-mina-2.x-user-guide) [详细](../repos/waylau_apache-mina-2.x-user-guide.md)
+
+⭐ 219 
+
+ Chinese translation of the Apache MINA User Guide (http://mina.apache.org/mina-project/userguide/us
+
+---
+
+## [semaphoreci/book-cicd-docker-kubernetes](https://github.com/semaphoreci/book-cicd-docker-kubernetes) [详细](../repos/semaphoreci_book-cicd-docker-kubernetes.md)
+
+⭐ 214 🌐 CSS
+
+A book on CI/CD with Docker, Kubernetes and Semaphore
+
+---
+
+## [enja-oss/Backbone](https://github.com/enja-oss/Backbone) [详细](../repos/enja-oss_Backbone.md)
+
+⭐ 213 🌐 JavaScript
+
+Backbone ドキュメント日本語訳
+
+---
+
+## [ftg-iran/dfa-persian](https://github.com/ftg-iran/dfa-persian) [详细](../repos/ftg-iran_dfa-persian.md)
+
+⭐ 213 🌐 Markdown
+
+ترجمه آزاد کتاب Django for APIs
+
+---
+
 ## [flatpressblog/flatpress](https://github.com/flatpressblog/flatpress) [详细](../repos/flatpressblog_flatpress.md)
 
 ⭐ 209 🌐 PHP
@@ -2710,11 +3526,59 @@ FlatPress is a lightweight, easy-to-set-up flat-file blogging engine.
 
 ---
 
+## [bobbyiliev/laravel-tips-and-tricks-ebook](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) [详细](../repos/bobbyiliev_laravel-tips-and-tricks-ebook.md)
+
+⭐ 209 🌐 HTML
+
+Free Laravel Tips eBook
+
+---
+
+## [rust-lang-ru/nomicon](https://github.com/rust-lang-ru/nomicon) [详细](../repos/rust-lang-ru_nomicon.md)
+
+⭐ 209 🌐 CSS
+
+Перевод "Rustonomicon"
+
+---
+
+## [waylau/css3-tutorial](https://github.com/waylau/css3-tutorial) [详细](../repos/waylau_css3-tutorial.md)
+
+⭐ 208 
+
+CSS3 Tutorial. 《CSS3 教程》
+
+---
+
 ## [gramps-project/gramps-web-api](https://github.com/gramps-project/gramps-web-api) [详细](../repos/gramps-project_gramps-web-api.md)
 
 ⭐ 206 🌐 Python
 
 A RESTful web API for Gramps - backend of Gramps Web
+
+---
+
+## [ftg-iran/ddpabp-persian](https://github.com/ftg-iran/ddpabp-persian) [详细](../repos/ftg-iran_ddpabp-persian.md)
+
+⭐ 195 🌐 JavaScript
+
+ترجمه آزاد کتاب Django Design Pattern And Best Practices
+
+---
+
+## [ilammy/lisp](https://github.com/ilammy/lisp) [详细](../repos/ilammy_lisp.md)
+
+⭐ 195 🌐 HTML
+
+Lisp In Small Pieces на русском языке
+
+---
+
+## [waylau/activiti-5.x-user-guide](https://github.com/waylau/activiti-5.x-user-guide) [详细](../repos/waylau_activiti-5.x-user-guide.md)
+
+⭐ 195 
+
+Chinese translation of the Activiti 5.x User Guide(http://activiti.org/userguide/index.html) . 《Acti
 
 ---
 
@@ -2734,11 +3598,27 @@ OSL is a simple shared list web-application based on Node and VueJS. Typical use
 
 ---
 
+## [waylau/RestDemo](https://github.com/waylau/RestDemo) [详细](../repos/waylau_RestDemo.md)
+
+⭐ 170 🌐 JavaScript
+
+RESTful Web Service Demos  with Jersey ,Hibernate,Mysql,SQLserver,jQuery,AangularJS,Boostrap. （REST 
+
+---
+
 ## [inveniosoftware/invenio-app-rdm](https://github.com/inveniosoftware/invenio-app-rdm) [详细](../repos/inveniosoftware_invenio-app-rdm.md)
 
 ⭐ 164 🌐 JavaScript
 
 Turn-key research data management platform.
+
+---
+
+## [tjweir/liftbook](https://github.com/tjweir/liftbook) [详细](../repos/tjweir_liftbook.md)
+
+⭐ 164 🌐 Python
+
+Book for liftweb: http://www.apress.com/book/view/1430224215
 
 ---
 
@@ -2750,6 +3630,30 @@ an event listing website
 
 ---
 
+## [melissarofman/typescript-book](https://github.com/melissarofman/typescript-book) [详细](../repos/melissarofman_typescript-book.md)
+
+⭐ 161 🌐 TypeScript
+
+:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Op
+
+---
+
+## [marcozennaro/IPv6-WSN-book](https://github.com/marcozennaro/IPv6-WSN-book) [详细](../repos/marcozennaro_IPv6-WSN-book.md)
+
+⭐ 159 🌐 HTML
+
+
+
+---
+
+## [radar/joyofelixir](https://github.com/radar/joyofelixir) [详细](../repos/radar_joyofelixir.md)
+
+⭐ 158 🌐 HTML
+
+A gentle introduction to the Elixir programming language
+
+---
+
 ## [sama-communications/sama-server](https://github.com/sama-communications/sama-server) [详细](../repos/sama-communications_sama-server.md)
 
 ⭐ 157 🌐 JavaScript
@@ -2758,11 +3662,43 @@ SAMA - Simple but Advanced Messaging Alternative chat server, powered by uWebsoc
 
 ---
 
+## [rosepac/gitbook-biblioteca-impresionante-en-espanol](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol) [详细](../repos/rosepac_gitbook-biblioteca-impresionante-en-espanol.md)
+
+⭐ 157 
+
+Recopilación de libros sobre programación en español. Encontrados en GitBook.
+
+---
+
 ## [jt196/vanilla-cookbook](https://github.com/jt196/vanilla-cookbook) [详细](../repos/jt196_vanilla-cookbook.md)
 
 ⭐ 150 🌐 JavaScript
 
 A deceptively simple recipe manager. 
+
+---
+
+## [vuejs-id/docs](https://github.com/vuejs-id/docs) [详细](../repos/vuejs-id_docs.md)
+
+⭐ 148 🌐 JavaScript
+
+🇮🇩 Dokumentasi resmi Vue.js dalam Bahasa Indonesia, diterjemahkan oleh komunitas Vue.js Indonesia
+
+---
+
+## [appkr/l5essential](https://github.com/appkr/l5essential) [详细](../repos/appkr_l5essential.md)
+
+⭐ 147 🌐 JavaScript
+
+라라벨 (Laravel) 5 입문 및 실전 강좌
+
+---
+
+## [ultimate-go-korean/translation](https://github.com/ultimate-go-korean/translation) [详细](../repos/ultimate-go-korean_translation.md)
+
+⭐ 135 🌐 CSS
+
+"The Ultimate Go Study Guide" 라는 무료(또는 자발적 기부를 받는) Go 언어 전자책을 알게 되었다. 기본적인 문법부터 다루면서도 마냥 가볍지만은 않은, 이
 
 ---
 
@@ -2862,11 +3798,51 @@ Aggregates images taken this week, from previous years and presents them on a we
 
 ---
 
+## [semaphoreci/book-monorepo-cicd](https://github.com/semaphoreci/book-monorepo-cicd) [详细](../repos/semaphoreci_book-monorepo-cicd.md)
+
+⭐ 98 🌐 CSS
+
+Effectively build, test, and deploy code with monorepos.
+
+---
+
+## [lwinmoepaing/html-and-css-beginner-to-super-beginner-ebook](https://github.com/lwinmoepaing/html-and-css-beginner-to-super-beginner-ebook) [详细](../repos/lwinmoepaing_html-and-css-beginner-to-super-beginner-ebook.md)
+
+⭐ 97 🌐 HTML
+
+
+
+---
+
+## [hectorcorrea/solr-for-newbies](https://github.com/hectorcorrea/solr-for-newbies) [详细](../repos/hectorcorrea_solr-for-newbies.md)
+
+⭐ 90 🌐 HTML
+
+Materials for the Solr for newbies workshop
+
+---
+
+## [picodotdev/blog-ejemplos](https://github.com/picodotdev/blog-ejemplos) [详细](../repos/picodotdev_blog-ejemplos.md)
+
+⭐ 90 🌐 JavaScript
+
+Ejemplos y código de las herramientas que he explicado en el blog
+
+---
+
 ## [NathanEpstein/Z3d](https://github.com/NathanEpstein/Z3d) [详细](../repos/NathanEpstein_Z3d.md)
 
 ⭐ 88 🌐 JavaScript
 
 Interactive 3D plotting with a simple function call using Three.js
+
+---
+
+## [amandavilela/curso-sass](https://github.com/amandavilela/curso-sass) [详细](../repos/amandavilela_curso-sass.md)
+
+⭐ 88 
+
+Apostila do curso de Sass
 
 ---
 
@@ -2891,6 +3867,14 @@ A concise collection of classes for PHP, Python, JavaScript, Ruby and Go to calc
 ⭐ 78 🌐 Python
 
 The Django backend of the Revel event platform project
+
+---
+
+## [petroemil/Rx.Book](https://github.com/petroemil/Rx.Book) [详细](../repos/petroemil_Rx.Book.md)
+
+⭐ 77 🌐 C#
+
+High level asynchronous programming with Reactive Extensions
 
 ---
 
@@ -2934,11 +3918,35 @@ Recipe manager frontend
 
 ---
 
+## [kev0960/ModooCode](https://github.com/kev0960/ModooCode) [详细](../repos/kev0960_ModooCode.md)
+
+⭐ 59 🌐 C++
+
+Repo for the Modoocode. 
+
+---
+
+## [frontenddogma/css-optimization-basics](https://github.com/frontenddogma/css-optimization-basics) [详细](../repos/frontenddogma_css-optimization-basics.md)
+
+⭐ 58 
+
+The book “CSS Optimization Basics”
+
+---
+
 ## [juntagrico/juntagrico](https://github.com/juntagrico/juntagrico) [详细](../repos/juntagrico_juntagrico.md)
 
 ⭐ 53 🌐 Python
 
 juntagrico is a management platform for community gardens and vegetable cooperatives.
+
+---
+
+## [lala-hakobyan/front-end-debugging-handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook) [详细](../repos/lala-hakobyan_front-end-debugging-handbook.md)
+
+⭐ 52 
+
+A comprehensive guide to debugging tools for modern, complex front-end applications. This handbook p
 
 ---
 
@@ -2963,6 +3971,14 @@ Tweets Sentiment Analyzer
 ⭐ 50 🌐 JavaScript
 
 Statistics toolkit for JavaScript
+
+---
+
+## [AnkitSharma-007/blogging-app-with-Angular-CloudFirestore](https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore) [详细](../repos/AnkitSharma-007_blogging-app-with-Angular-CloudFirestore.md)
+
+⭐ 49 🌐 TypeScript
+
+A blogging application created with the help of Angular on front-end and Google Cloud Firestore on b
 
 ---
 
@@ -3030,6 +4046,14 @@ React client for SAMA chat server
 
 ---
 
+## [liancheng/cpie-cn](https://github.com/liancheng/cpie-cn) [详细](../repos/liancheng_cpie-cn.md)
+
+⭐ 32 🌐 JavaScript
+
+Concurrent Programming in Erlang (Part I) 中文版
+
+---
+
 ## [emilbayes/clustering.js](https://github.com/emilbayes/clustering.js) [详细](../repos/emilbayes_clustering.js.md)
 
 ⭐ 30 🌐 JavaScript
@@ -3046,6 +4070,46 @@ MyFin Budget - Rest API for the personal finances platform that'll help you budg
 
 ---
 
+## [CodeJogot/html-css-course-in-bangla](https://github.com/CodeJogot/html-css-course-in-bangla) [详细](../repos/CodeJogot_html-css-course-in-bangla.md)
+
+⭐ 28 🌐 HTML
+
+Learn HTML and CSS in Bangla. 
+
+---
+
+## [TizioFittizio/typescript-book](https://github.com/TizioFittizio/typescript-book) [详细](../repos/TizioFittizio_typescript-book.md)
+
+⭐ 28 🌐 TypeScript
+
+:books: La guida definitiva e probabilmente il miglior libro su TypeScript :book:. Libera ed open so
+
+---
+
+## [xelenonz/game](https://github.com/xelenonz/game) [详细](../repos/xelenonz_game.md)
+
+⭐ 28 🌐 CSS
+
+ROP Wargame repository
+
+---
+
+## [jiechic/diveintopython3](https://github.com/jiechic/diveintopython3) [详细](../repos/jiechic_diveintopython3.md)
+
+⭐ 26 🌐 JavaScript
+
+Mirror site for http://woodpecker.org.cn/diveintopython3/
+
+---
+
+## [vlet/http2-explained](https://github.com/vlet/http2-explained) [详细](../repos/vlet_http2-explained.md)
+
+⭐ 25 
+
+http2 explained is a detailed document explaining and documenting the new protocol
+
+---
+
 ## [emlopezr/trackwatch](https://github.com/emlopezr/trackwatch) [详细](../repos/emlopezr_trackwatch.md)
 
 ⭐ 24 🌐 Python
@@ -3059,6 +4123,22 @@ Open Source & Self-hosted Spotify release tracker. Auto-syncs new releases to pl
 ⭐ 24 🌐 Python
 
 A complete, reliable, secure and open source webapp based on zero-knowledge encryption to deal with 
+
+---
+
+## [omatoro/NodeSample](https://github.com/omatoro/NodeSample) [详细](../repos/omatoro_NodeSample.md)
+
+⭐ 23 🌐 JavaScript
+
+
+
+---
+
+## [paufsc/journey-to-html](https://github.com/paufsc/journey-to-html) [详细](../repos/paufsc_journey-to-html.md)
+
+⭐ 21 
+
+Learning journey from scratch: Self-learning on the 'HTML: Hyper Text Markup Language' 
 
 ---
 
@@ -3094,6 +4174,14 @@ Stretto mobile version (work in progress)
 
 ---
 
+## [frontenddogma/upgrade-your-html](https://github.com/frontenddogma/upgrade-your-html) [详细](../repos/frontenddogma_upgrade-your-html.md)
+
+⭐ 9 
+
+The book “Upgrade Your HTML”
+
+---
+
 ## [cozy/cozy-store](https://github.com/cozy/cozy-store) [详细](../repos/cozy_cozy-store.md)
 
 ⭐ 7 🌐 JavaScript
@@ -3110,11 +4198,91 @@ API for Onloc. Manages all of your precious location data.
 
 ---
 
+## [TranslateBabelJapan/modern-cljs](https://github.com/TranslateBabelJapan/modern-cljs) [详细](../repos/TranslateBabelJapan_modern-cljs.md)
+
+⭐ 7 🌐 Clojure
+
+A short series of tutorials on ClojureScript
+
+---
+
+## [afuggini/javascript-definitivo-vol1](https://github.com/afuggini/javascript-definitivo-vol1) [详细](../repos/afuggini_javascript-definitivo-vol1.md)
+
+⭐ 6 
+
+JavaScript Definitivo Vol. I
+
+---
+
+## [frontenddogma/web-development-glossary](https://github.com/frontenddogma/web-development-glossary) [详细](../repos/frontenddogma_web-development-glossary.md)
+
+⭐ 6 
+
+The book “The Web Development Glossary”
+
+---
+
+## [making/rd-clj](https://github.com/making/rd-clj) [详细](../repos/making_rd-clj.md)
+
+⭐ 6 🌐 JavaScript
+
+the Reverse Dicrtionary of Clojure
+
+---
+
 ## [heliumedu/platform](https://github.com/heliumedu/platform) [详细](../repos/heliumedu_platform.md)
 
 ⭐ 5 🌐 Python
 
 Django backend for Helium - Student Planner
+
+---
+
+## [progit2-ar/progit2](https://github.com/progit2-ar/progit2) [详细](../repos/progit2-ar_progit2.md)
+
+⭐ 5 🌐 CSS
+
+Pro Git 2nd Edition
+
+---
+
+## [alexhiroshi/knockoutjs-brasil](https://github.com/alexhiroshi/knockoutjs-brasil) [详细](../repos/alexhiroshi_knockoutjs-brasil.md)
+
+⭐ 4 🌐 CSS
+
+Tradução da documentação do Knockout.js
+
+---
+
+## [frontenddogma/html-css-frameworks](https://github.com/frontenddogma/html-css-frameworks) [详细](../repos/frontenddogma_html-css-frameworks.md)
+
+⭐ 3 
+
+Das Buch »The Little Book of HTML/CSS Frameworks«
+
+---
+
+## [michivo/go-tour-de](https://github.com/michivo/go-tour-de) [详细](../repos/michivo_go-tour-de.md)
+
+⭐ 3 🌐 Go
+
+German translation of https://tour.golang.org
+
+---
+
+## [sim1984/fbmigrgd40](https://github.com/sim1984/fbmigrgd40) [详细](../repos/sim1984_fbmigrgd40.md)
+
+⭐ 2 🌐 CSS
+
+
+
+---
+
+## [ngokevin/angularbook](https://github.com/ngokevin/angularbook) [详细](../repos/ngokevin_angularbook.md)
+
+⭐ 1 🌐 CSS
+
+5-Chapter AngularJS Book
 
 ---
 
